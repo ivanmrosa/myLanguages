@@ -102,3 +102,6 @@ ENV/
 
 #sqlite
 .sqlite3
+
+#python bitecode
+.pyc
