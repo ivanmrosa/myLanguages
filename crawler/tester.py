@@ -3,11 +3,14 @@ from reader import PageReader
 
 f = open('links.txt', 'w')
 
-filter_in = ('ssd', 'i7', 'asus')
-filter_out = ('8gb', 'omen', '173')
-for idx in range(1,29):
-    pg = PageReader('http://informatica.mercadolivre.com.br/_Desde_' + str(idx) \
-        + '_CustId_20173305_seller*id_20173305',
+base_url = 'https://informatica.mercadolivre.com.br/portateis/notebook/notebook_Desde_'
+user_id = ''#'_CustId_20173305_seller*id_20173305'
+#'http://informatica.mercadolivre.com.br/_Desde_' + str(idx) \
+#        + '_CustId_20173305_seller*id_20173305'
+filter_in = ('apple')
+filter_out = ('173', '17', 'touch', 'omen', 'gamer')
+for idx in range(1,50):
+    pg = PageReader(base_url + str(idx) + user_id,
         ['<a.*?href\s*=\s*["\']([^"\'>]+-[^"\'>]*)["\'][^>]*>.*?<\/a>'],
         [], [])
 
