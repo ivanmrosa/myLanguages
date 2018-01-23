@@ -208,15 +208,3 @@ def CreateLessons(request):
 
     return HttpResponse('Lições criadas: Inicio: %s, Fim: %s' % (str(begin_time), str(end_time)))
 
-
-def get_token(request):
-    client_id = request.POST.get('client')
-    client_secret = request.POST.get('secret')
-    user = request.POST.get('username')
-    password = request.POST.get('password')
-    grant_type = request.POST.get('grant_type')
-    data = {'grant_type':grant_type, 'username':user, 'password':password}
-    server_url = request.META["HTTP_HOST"]
-    url = 'http://' + client_id + ':' + client_secret + '@' + server_url + '/o/token/'  # 'localhost:8000/o/token/'
-    with requests.post(url, data) as f:                
-        return HttpResponse(f.text, status=f.status_code)

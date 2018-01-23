@@ -13,19 +13,36 @@ Including another URLconf
     1. Import the include() function: from django.conf.urls import url, include
     2. Add a URL to urlpatterns:  url(r'^blog/', include('blog.urls'))
 """
+from django.conf import settings
+from django.conf.urls.static import static
+
 from django.conf.urls import url, include
 from django.contrib import admin
 from rest_framework import routers
-from app import views
+from common import views
+from vocplus.views import create_user
+from vocplus.views import LanguageViewSet, WordViewSet, WordRankViewSet, \
+  LessonViewSet, LessonWordViewSet, LessonMediaViewSet, UserComplementViewSet, \
+  UserLearningLanguageViewSet, UserViewSet
+ #from app.serializers import LanguageViewSet, LessonViewSet, CategoryViewSet, ResumedArticleWordViewSet, ArticleLessonViewSet
+
 from rest_framework.authtoken import views as view_auth
-from app.serializers import LanguageViewSet, LessonViewSet, CategoryViewSet, ResumedArticleWordViewSet, ArticleLessonViewSet
+
 
 router = routers.DefaultRouter()
-router.register(r'languages', LanguageViewSet)
-router.register(r'lessons', LessonViewSet)
-router.register(r'categories', CategoryViewSet)
-router.register(r'lesson-words', ResumedArticleWordViewSet)
-router.register(r'lesson-articles', ArticleLessonViewSet)
+router.register(r'language', LanguageViewSet)
+router.register(r'word', WordViewSet)
+router.register(r'word-rank', WordRankViewSet)
+router.register(r'lesson', LessonViewSet)
+router.register(r'lesson-word', LessonWordViewSet)
+router.register(r'lesson-media', LessonMediaViewSet)
+router.register(r'user-complement', UserComplementViewSet)
+router.register(r'user-learning-language', UserLearningLanguageViewSet)
+router.register(r'user', UserViewSet)
+#router.register(r'lessons', LessonViewSet)
+#router.register(r'categories', CategoryViewSet)
+#router.register(r'lesson-words', ResumedArticleWordViewSet)
+#router.register(r'lesson-articles', ArticleLessonViewSet)
 
 urlpatterns = [
     url(r'^', include(router.urls)),
@@ -33,7 +50,9 @@ urlpatterns = [
     #url(r'^api-auth/', include('rest_framework.urls', namespace='rest_framework')),
     #url(r'^api-token-auth/', view_auth.obtain_auth_token),
     url(r'^get-token/', views.get_token, name='get-token'),
-    url(r'^create-lessons/', views.CreateLessons, name='create-lessons'),
+    url(r'^create-user/', create_user, name='create-user'),
+    
+    #url(r'^create-lessons/', views.CreateLessons, name='create-lessons'),
     url(r'^admin/', admin.site.urls),
     url(r'^o/', include('oauth2_provider.urls', namespace='oauth2_provider')),
-]
+] 
