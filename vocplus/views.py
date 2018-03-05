@@ -1,3 +1,5 @@
+import os
+import json
 from django.shortcuts import render
 from rest_framework.response import Response
 from rest_framework import viewsets
@@ -12,8 +14,9 @@ from vocplus.models import Language, Word, WordRank, Lesson, LessonWord, \
 from vocplus.serializer import LanguageSerializer, WordSerializer, WordRankSerializer, LessonSerializer, LessonWordSerializer, \
     LessonMediaSerializer, UserComplementSerializer, UserLearningLanguageSerializer, UserSerializer
 
-# Create your views here.
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
+# Create your views here.
 
 
 @api_view(['POST'])
@@ -35,7 +38,22 @@ def create_user(request):
     else:
         return Response(serialized._errors, status=status.HTTP_400_BAD_REQUEST)
 
+@api_view(['GET'])
+def get_file_content(request):
+    
+    file_name = request.GET.get('file', {})
+    
+    if not file_name:
+        return Response(status=status.HTTP_404_NOT_FOUND)
+    
+    path = os.path.join(BASE_DIR, 'extra-db-files', file_name)
 
+    if not os.path.exists(path):
+        return Response(status=status.HTTP_404_NOT_FOUND)
+    
+    
+    with open(path) as f:
+        return Response(json.loads(f.read()))
 
 class LanguageViewSet(viewsets.ModelViewSet):
     queryset = Language.objects.all()
