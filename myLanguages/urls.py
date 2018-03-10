@@ -20,7 +20,7 @@ from django.conf.urls import url, include
 from django.contrib import admin
 from rest_framework import routers
 from common import views
-from vocplus.views import create_user
+from vocplus.views import create_user, get_file_content
 from vocplus.views import LanguageViewSet, WordViewSet, WordRankViewSet, \
   LessonViewSet, LessonWordViewSet, LessonMediaViewSet, UserComplementViewSet, \
   UserLearningLanguageViewSet, UserViewSet
@@ -51,6 +51,7 @@ urlpatterns = [
     #url(r'^api-token-auth/', view_auth.obtain_auth_token),
     url(r'^get-token/', views.get_token, name='get-token'),
     url(r'^create-user/', create_user, name='create-user'),
+    url(r'^get-file/$', get_file_content, name='get_file_content'),
     
     #url(r'^create-lessons/', views.CreateLessons, name='create-lessons'),
     url(r'^admin/', admin.site.urls),
