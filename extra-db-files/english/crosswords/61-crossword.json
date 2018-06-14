@@ -1,0 +1,86 @@
+[
+    {
+        "x": 6,
+        "y": 7,
+        "orientation": "V",
+        "word": "me"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "H",
+        "word": "each"
+    },
+    {
+        "x": 4,
+        "y": 4,
+        "orientation": "V",
+        "word": "arrest"
+    },
+    {
+        "x": 4,
+        "y": 4,
+        "orientation": "H",
+        "word": "ally"
+    },
+    {
+        "x": 3,
+        "y": 6,
+        "orientation": "V",
+        "word": "old"
+    },
+    {
+        "x": 3,
+        "y": 6,
+        "orientation": "H",
+        "word": "organ"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "V",
+        "word": "concept"
+    },
+    {
+        "x": 9,
+        "y": 1,
+        "orientation": "H",
+        "word": "testing"
+    },
+    {
+        "x": 1,
+        "y": 4,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 1,
+        "y": 4,
+        "orientation": "H",
+        "word": "actress"
+    },
+    {
+        "x": 7,
+        "y": 1,
+        "orientation": "H",
+        "word": "else"
+    },
+    {
+        "x": 7,
+        "y": 3,
+        "orientation": "V",
+        "word": "shy"
+    },
+    {
+        "x": 9,
+        "y": 9,
+        "orientation": "V",
+        "word": "ok"
+    },
+    {
+        "x": 9,
+        "y": 9,
+        "orientation": "H",
+        "word": "of"
+    }
+]

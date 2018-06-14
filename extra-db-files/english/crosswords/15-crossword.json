@@ -1,0 +1,74 @@
+[
+    {
+        "x": 1,
+        "y": 5,
+        "orientation": "V",
+        "word": "bride"
+    },
+    {
+        "x": 5,
+        "y": 5,
+        "orientation": "H",
+        "word": "effort"
+    },
+    {
+        "x": 5,
+        "y": 2,
+        "orientation": "V",
+        "word": "nest"
+    },
+    {
+        "x": 7,
+        "y": 2,
+        "orientation": "H",
+        "word": "shift"
+    },
+    {
+        "x": 7,
+        "y": 6,
+        "orientation": "V",
+        "word": "too"
+    },
+    {
+        "x": 8,
+        "y": 6,
+        "orientation": "H",
+        "word": "oven"
+    },
+    {
+        "x": 1,
+        "y": 4,
+        "orientation": "V",
+        "word": "rub"
+    },
+    {
+        "x": 2,
+        "y": 4,
+        "orientation": "H",
+        "word": "urban"
+    },
+    {
+        "x": 7,
+        "y": 3,
+        "orientation": "V",
+        "word": "mud"
+    },
+    {
+        "x": 9,
+        "y": 3,
+        "orientation": "H",
+        "word": "donor"
+    },
+    {
+        "x": 1,
+        "y": 7,
+        "orientation": "H",
+        "word": "east"
+    },
+    {
+        "x": 1,
+        "y": 10,
+        "orientation": "V",
+        "word": "thirty"
+    }
+]

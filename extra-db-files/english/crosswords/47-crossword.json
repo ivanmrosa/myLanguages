@@ -1,0 +1,86 @@
+[
+    {
+        "x": 6,
+        "y": 5,
+        "orientation": "H",
+        "word": "suffer"
+    },
+    {
+        "x": 6,
+        "y": 6,
+        "orientation": "V",
+        "word": "until"
+    },
+    {
+        "x": 4,
+        "y": 6,
+        "orientation": "H",
+        "word": "harm"
+    },
+    {
+        "x": 4,
+        "y": 9,
+        "orientation": "V",
+        "word": "meet"
+    },
+    {
+        "x": 3,
+        "y": 3,
+        "orientation": "V",
+        "word": "peanut"
+    },
+    {
+        "x": 5,
+        "y": 3,
+        "orientation": "H",
+        "word": "at"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "V",
+        "word": "develop"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "H",
+        "word": "depend"
+    },
+    {
+        "x": 7,
+        "y": 4,
+        "orientation": "V",
+        "word": "myth"
+    },
+    {
+        "x": 10,
+        "y": 4,
+        "orientation": "H",
+        "word": "hole"
+    },
+    {
+        "x": 5,
+        "y": 7,
+        "orientation": "H",
+        "word": "keep"
+    },
+    {
+        "x": 5,
+        "y": 10,
+        "orientation": "V",
+        "word": "prime"
+    },
+    {
+        "x": 1,
+        "y": 7,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 1,
+        "y": 7,
+        "orientation": "H",
+        "word": "arm"
+    }
+]

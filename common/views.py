@@ -2,12 +2,7 @@ import os, abc
 from django.shortcuts import render
 from django.http import HttpResponse
 import requests
-
-
 # Create your views here.
-
-
-
 
 
 class ReaderFile(metaclass=abc.ABCMeta):
@@ -96,7 +91,6 @@ class ReaderCSV(ReaderFile):
 
     def get_next_line(self):
        return self.__get_splited_fields()
-
 
 def get_token(request):
     client_id = request.POST.get('client')

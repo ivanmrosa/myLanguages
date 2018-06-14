@@ -1,0 +1,110 @@
+[
+    {
+        "x": 2,
+        "y": 4,
+        "orientation": "V",
+        "word": "tip"
+    },
+    {
+        "x": 2,
+        "y": 4,
+        "orientation": "H",
+        "word": "trend"
+    },
+    {
+        "x": 6,
+        "y": 2,
+        "orientation": "V",
+        "word": "teach"
+    },
+    {
+        "x": 10,
+        "y": 2,
+        "orientation": "H",
+        "word": "harvest"
+    },
+    {
+        "x": 3,
+        "y": 2,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 3,
+        "y": 2,
+        "orientation": "H",
+        "word": "ability"
+    },
+    {
+        "x": 7,
+        "y": 1,
+        "orientation": "V",
+        "word": "uh"
+    },
+    {
+        "x": 8,
+        "y": 1,
+        "orientation": "H",
+        "word": "ha"
+    },
+    {
+        "x": 6,
+        "y": 6,
+        "orientation": "V",
+        "word": "leave"
+    },
+    {
+        "x": 8,
+        "y": 6,
+        "orientation": "H",
+        "word": "award"
+    },
+    {
+        "x": 6,
+        "y": 4,
+        "orientation": "V",
+        "word": "tower"
+    },
+    {
+        "x": 7,
+        "y": 4,
+        "orientation": "H",
+        "word": "one"
+    },
+    {
+        "x": 3,
+        "y": 3,
+        "orientation": "V",
+        "word": "bus"
+    },
+    {
+        "x": 4,
+        "y": 3,
+        "orientation": "H",
+        "word": "up"
+    },
+    {
+        "x": 1,
+        "y": 7,
+        "orientation": "V",
+        "word": "into"
+    },
+    {
+        "x": 4,
+        "y": 7,
+        "orientation": "H",
+        "word": "oral"
+    },
+    {
+        "x": 7,
+        "y": 8,
+        "orientation": "V",
+        "word": "last"
+    },
+    {
+        "x": 9,
+        "y": 8,
+        "orientation": "H",
+        "word": "say"
+    }
+]

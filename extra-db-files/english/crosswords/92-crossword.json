@@ -1,0 +1,86 @@
+[
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "H",
+        "word": "where"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "V",
+        "word": "well"
+    },
+    {
+        "x": 1,
+        "y": 7,
+        "orientation": "V",
+        "word": "provider"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "H",
+        "word": "evil"
+    },
+    {
+        "x": 2,
+        "y": 4,
+        "orientation": "V",
+        "word": "argument"
+    },
+    {
+        "x": 6,
+        "y": 4,
+        "orientation": "H",
+        "word": "mind"
+    },
+    {
+        "x": 2,
+        "y": 2,
+        "orientation": "V",
+        "word": "changing"
+    },
+    {
+        "x": 9,
+        "y": 2,
+        "orientation": "H",
+        "word": "get"
+    },
+    {
+        "x": 1,
+        "y": 7,
+        "orientation": "H",
+        "word": "poke"
+    },
+    {
+        "x": 1,
+        "y": 10,
+        "orientation": "V",
+        "word": "entirely"
+    },
+    {
+        "x": 5,
+        "y": 6,
+        "orientation": "H",
+        "word": "river"
+    },
+    {
+        "x": 5,
+        "y": 9,
+        "orientation": "V",
+        "word": "exit"
+    },
+    {
+        "x": 10,
+        "y": 8,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 10,
+        "y": 8,
+        "orientation": "H",
+        "word": "age"
+    }
+]

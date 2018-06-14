@@ -1,0 +1,74 @@
+[
+    {
+        "x": 4,
+        "y": 4,
+        "orientation": "H",
+        "word": "nowhere"
+    },
+    {
+        "x": 4,
+        "y": 5,
+        "orientation": "V",
+        "word": "outlet"
+    },
+    {
+        "x": 3,
+        "y": 4,
+        "orientation": "V",
+        "word": "ancestor"
+    },
+    {
+        "x": 7,
+        "y": 4,
+        "orientation": "H",
+        "word": "sleep"
+    },
+    {
+        "x": 1,
+        "y": 7,
+        "orientation": "V",
+        "word": "architect"
+    },
+    {
+        "x": 6,
+        "y": 7,
+        "orientation": "H",
+        "word": "tax"
+    },
+    {
+        "x": 2,
+        "y": 6,
+        "orientation": "V",
+        "word": "now"
+    },
+    {
+        "x": 3,
+        "y": 6,
+        "orientation": "H",
+        "word": "occur"
+    },
+    {
+        "x": 7,
+        "y": 1,
+        "orientation": "H",
+        "word": "a"
+    },
+    {
+        "x": 7,
+        "y": 1,
+        "orientation": "V",
+        "word": "and"
+    },
+    {
+        "x": 9,
+        "y": 9,
+        "orientation": "H",
+        "word": "ie"
+    },
+    {
+        "x": 9,
+        "y": 9,
+        "orientation": "V",
+        "word": "it"
+    }
+]

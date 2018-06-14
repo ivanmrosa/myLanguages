@@ -1,0 +1,110 @@
+[
+    {
+        "x": 5,
+        "y": 4,
+        "orientation": "V",
+        "word": "player"
+    },
+    {
+        "x": 6,
+        "y": 4,
+        "orientation": "H",
+        "word": "lap"
+    },
+    {
+        "x": 2,
+        "y": 6,
+        "orientation": "V",
+        "word": "equip"
+    },
+    {
+        "x": 2,
+        "y": 6,
+        "orientation": "H",
+        "word": "enemy"
+    },
+    {
+        "x": 6,
+        "y": 2,
+        "orientation": "V",
+        "word": "nose"
+    },
+    {
+        "x": 9,
+        "y": 2,
+        "orientation": "H",
+        "word": "emerge"
+    },
+    {
+        "x": 1,
+        "y": 4,
+        "orientation": "H",
+        "word": "a"
+    },
+    {
+        "x": 1,
+        "y": 4,
+        "orientation": "V",
+        "word": "at"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "H",
+        "word": "go"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "V",
+        "word": "gym"
+    },
+    {
+        "x": 7,
+        "y": 3,
+        "orientation": "V",
+        "word": "same"
+    },
+    {
+        "x": 10,
+        "y": 3,
+        "orientation": "H",
+        "word": "era"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "V",
+        "word": "teen"
+    },
+    {
+        "x": 10,
+        "y": 7,
+        "orientation": "H",
+        "word": "not"
+    },
+    {
+        "x": 2,
+        "y": 8,
+        "orientation": "V",
+        "word": "exit"
+    },
+    {
+        "x": 4,
+        "y": 8,
+        "orientation": "H",
+        "word": "if"
+    },
+    {
+        "x": 7,
+        "y": 9,
+        "orientation": "V",
+        "word": "goat"
+    },
+    {
+        "x": 8,
+        "y": 9,
+        "orientation": "H",
+        "word": "of"
+    }
+]

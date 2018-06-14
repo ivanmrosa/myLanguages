@@ -1,0 +1,74 @@
+[
+    {
+        "x": 1,
+        "y": 2,
+        "orientation": "V",
+        "word": "electronic"
+    },
+    {
+        "x": 5,
+        "y": 2,
+        "orientation": "H",
+        "word": "tactic"
+    },
+    {
+        "x": 4,
+        "y": 5,
+        "orientation": "H",
+        "word": "death"
+    },
+    {
+        "x": 4,
+        "y": 9,
+        "orientation": "V",
+        "word": "happen"
+    },
+    {
+        "x": 1,
+        "y": 4,
+        "orientation": "V",
+        "word": "by"
+    },
+    {
+        "x": 2,
+        "y": 4,
+        "orientation": "H",
+        "word": "yes"
+    },
+    {
+        "x": 7,
+        "y": 6,
+        "orientation": "H",
+        "word": "drop"
+    },
+    {
+        "x": 7,
+        "y": 6,
+        "orientation": "V",
+        "word": "due"
+    },
+    {
+        "x": 6,
+        "y": 4,
+        "orientation": "H",
+        "word": "a"
+    },
+    {
+        "x": 6,
+        "y": 4,
+        "orientation": "V",
+        "word": "at"
+    },
+    {
+        "x": 7,
+        "y": 8,
+        "orientation": "V",
+        "word": "only"
+    },
+    {
+        "x": 8,
+        "y": 8,
+        "orientation": "H",
+        "word": "new"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "x": 2,
+        "y": 7,
+        "orientation": "V",
+        "word": "scan"
+    },
+    {
+        "x": 3,
+        "y": 7,
+        "orientation": "H",
+        "word": "calm"
+    },
+    {
+        "x": 3,
+        "y": 2,
+        "orientation": "V",
+        "word": "duty"
+    },
+    {
+        "x": 5,
+        "y": 2,
+        "orientation": "H",
+        "word": "testing"
+    },
+    {
+        "x": 4,
+        "y": 4,
+        "orientation": "V",
+        "word": "usually"
+    },
+    {
+        "x": 9,
+        "y": 4,
+        "orientation": "H",
+        "word": "labor"
+    },
+    {
+        "x": 2,
+        "y": 5,
+        "orientation": "V",
+        "word": "criteria"
+    },
+    {
+        "x": 2,
+        "y": 5,
+        "orientation": "H",
+        "word": "custom"
+    },
+    {
+        "x": 4,
+        "y": 3,
+        "orientation": "V",
+        "word": "term"
+    },
+    {
+        "x": 7,
+        "y": 3,
+        "orientation": "H",
+        "word": "married"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "V",
+        "word": "iron"
+    },
+    {
+        "x": 8,
+        "y": 7,
+        "orientation": "H",
+        "word": "root"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "x": 4,
+        "y": 5,
+        "orientation": "V",
+        "word": "healthy"
+    },
+    {
+        "x": 8,
+        "y": 5,
+        "orientation": "H",
+        "word": "tape"
+    },
+    {
+        "x": 7,
+        "y": 3,
+        "orientation": "V",
+        "word": "sigh"
+    },
+    {
+        "x": 7,
+        "y": 3,
+        "orientation": "H",
+        "word": "silk"
+    },
+    {
+        "x": 5,
+        "y": 2,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 5,
+        "y": 2,
+        "orientation": "H",
+        "word": "aide"
+    },
+    {
+        "x": 2,
+        "y": 1,
+        "orientation": "V",
+        "word": "by"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "H",
+        "word": "you"
+    },
+    {
+        "x": 1,
+        "y": 5,
+        "orientation": "H",
+        "word": "among"
+    },
+    {
+        "x": 1,
+        "y": 6,
+        "orientation": "V",
+        "word": "mad"
+    },
+    {
+        "x": 5,
+        "y": 7,
+        "orientation": "H",
+        "word": "nest"
+    },
+    {
+        "x": 5,
+        "y": 8,
+        "orientation": "V",
+        "word": "expect"
+    },
+    {
+        "x": 8,
+        "y": 7,
+        "orientation": "V",
+        "word": "pie"
+    },
+    {
+        "x": 9,
+        "y": 7,
+        "orientation": "H",
+        "word": "if"
+    }
+]

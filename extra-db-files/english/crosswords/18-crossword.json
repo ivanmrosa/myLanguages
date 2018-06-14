@@ -1,0 +1,74 @@
+[
+    {
+        "x": 2,
+        "y": 5,
+        "orientation": "H",
+        "word": "laser"
+    },
+    {
+        "x": 2,
+        "y": 9,
+        "orientation": "V",
+        "word": "resident"
+    },
+    {
+        "x": 3,
+        "y": 4,
+        "orientation": "V",
+        "word": "project"
+    },
+    {
+        "x": 7,
+        "y": 4,
+        "orientation": "H",
+        "word": "emerge"
+    },
+    {
+        "x": 6,
+        "y": 5,
+        "orientation": "V",
+        "word": "small"
+    },
+    {
+        "x": 10,
+        "y": 5,
+        "orientation": "H",
+        "word": "log"
+    },
+    {
+        "x": 5,
+        "y": 7,
+        "orientation": "V",
+        "word": "spring"
+    },
+    {
+        "x": 5,
+        "y": 7,
+        "orientation": "H",
+        "word": "stir"
+    },
+    {
+        "x": 1,
+        "y": 4,
+        "orientation": "H",
+        "word": "help"
+    },
+    {
+        "x": 1,
+        "y": 6,
+        "orientation": "V",
+        "word": "lay"
+    },
+    {
+        "x": 4,
+        "y": 3,
+        "orientation": "H",
+        "word": "or"
+    },
+    {
+        "x": 4,
+        "y": 3,
+        "orientation": "V",
+        "word": "of"
+    }
+]

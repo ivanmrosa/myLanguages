@@ -1,0 +1,86 @@
+[
+    {
+        "x": 6,
+        "y": 1,
+        "orientation": "V",
+        "word": "drown"
+    },
+    {
+        "x": 10,
+        "y": 1,
+        "orientation": "H",
+        "word": "north"
+    },
+    {
+        "x": 1,
+        "y": 5,
+        "orientation": "V",
+        "word": "photograph"
+    },
+    {
+        "x": 1,
+        "y": 5,
+        "orientation": "H",
+        "word": "proof"
+    },
+    {
+        "x": 2,
+        "y": 1,
+        "orientation": "V",
+        "word": "to"
+    },
+    {
+        "x": 2,
+        "y": 1,
+        "orientation": "H",
+        "word": "touchdown"
+    },
+    {
+        "x": 7,
+        "y": 3,
+        "orientation": "V",
+        "word": "poor"
+    },
+    {
+        "x": 9,
+        "y": 3,
+        "orientation": "H",
+        "word": "opponent"
+    },
+    {
+        "x": 4,
+        "y": 3,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 4,
+        "y": 3,
+        "orientation": "H",
+        "word": "activity"
+    },
+    {
+        "x": 6,
+        "y": 4,
+        "orientation": "V",
+        "word": "adopt"
+    },
+    {
+        "x": 6,
+        "y": 4,
+        "orientation": "H",
+        "word": "age"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "V",
+        "word": "bind"
+    },
+    {
+        "x": 10,
+        "y": 7,
+        "orientation": "H",
+        "word": "doll"
+    }
+]

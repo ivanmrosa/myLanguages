@@ -1,0 +1,74 @@
+[
+    {
+        "x": 3,
+        "y": 7,
+        "orientation": "H",
+        "word": "till"
+    },
+    {
+        "x": 3,
+        "y": 10,
+        "orientation": "V",
+        "word": "limited"
+    },
+    {
+        "x": 6,
+        "y": 2,
+        "orientation": "V",
+        "word": "port"
+    },
+    {
+        "x": 8,
+        "y": 2,
+        "orientation": "H",
+        "word": "recognize"
+    },
+    {
+        "x": 6,
+        "y": 6,
+        "orientation": "V",
+        "word": "dog"
+    },
+    {
+        "x": 7,
+        "y": 6,
+        "orientation": "H",
+        "word": "ought"
+    },
+    {
+        "x": 3,
+        "y": 2,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 3,
+        "y": 2,
+        "orientation": "H",
+        "word": "ago"
+    },
+    {
+        "x": 2,
+        "y": 4,
+        "orientation": "V",
+        "word": "political"
+    },
+    {
+        "x": 10,
+        "y": 4,
+        "orientation": "H",
+        "word": "lane"
+    },
+    {
+        "x": 5,
+        "y": 7,
+        "orientation": "V",
+        "word": "bounce"
+    },
+    {
+        "x": 5,
+        "y": 7,
+        "orientation": "H",
+        "word": "boom"
+    }
+]

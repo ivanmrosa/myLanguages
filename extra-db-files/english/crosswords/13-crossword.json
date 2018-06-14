@@ -1,0 +1,86 @@
+[
+    {
+        "x": 4,
+        "y": 5,
+        "orientation": "H",
+        "word": "nod"
+    },
+    {
+        "x": 4,
+        "y": 6,
+        "orientation": "V",
+        "word": "order"
+    },
+    {
+        "x": 4,
+        "y": 1,
+        "orientation": "V",
+        "word": "weapon"
+    },
+    {
+        "x": 7,
+        "y": 1,
+        "orientation": "H",
+        "word": "proceed"
+    },
+    {
+        "x": 1,
+        "y": 1,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 1,
+        "y": 1,
+        "orientation": "H",
+        "word": "aisle"
+    },
+    {
+        "x": 5,
+        "y": 6,
+        "orientation": "H",
+        "word": "relax"
+    },
+    {
+        "x": 5,
+        "y": 9,
+        "orientation": "V",
+        "word": "artist"
+    },
+    {
+        "x": 6,
+        "y": 4,
+        "orientation": "V",
+        "word": "score"
+    },
+    {
+        "x": 10,
+        "y": 4,
+        "orientation": "H",
+        "word": "expect"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "V",
+        "word": "dare"
+    },
+    {
+        "x": 9,
+        "y": 7,
+        "orientation": "H",
+        "word": "rest"
+    },
+    {
+        "x": 1,
+        "y": 7,
+        "orientation": "H",
+        "word": "bag"
+    },
+    {
+        "x": 1,
+        "y": 8,
+        "orientation": "V",
+        "word": "as"
+    }
+]

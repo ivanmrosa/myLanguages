@@ -1,0 +1,86 @@
+[
+    {
+        "x": 3,
+        "y": 5,
+        "orientation": "H",
+        "word": "cool"
+    },
+    {
+        "x": 3,
+        "y": 8,
+        "orientation": "V",
+        "word": "lemon"
+    },
+    {
+        "x": 6,
+        "y": 7,
+        "orientation": "H",
+        "word": "loss"
+    },
+    {
+        "x": 6,
+        "y": 10,
+        "orientation": "V",
+        "word": "spoon"
+    },
+    {
+        "x": 6,
+        "y": 3,
+        "orientation": "H",
+        "word": "on"
+    },
+    {
+        "x": 6,
+        "y": 4,
+        "orientation": "V",
+        "word": "newly"
+    },
+    {
+        "x": 1,
+        "y": 1,
+        "orientation": "V",
+        "word": "nod"
+    },
+    {
+        "x": 2,
+        "y": 1,
+        "orientation": "H",
+        "word": "ought"
+    },
+    {
+        "x": 3,
+        "y": 6,
+        "orientation": "V",
+        "word": "of"
+    },
+    {
+        "x": 4,
+        "y": 6,
+        "orientation": "H",
+        "word": "feel"
+    },
+    {
+        "x": 4,
+        "y": 2,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 4,
+        "y": 2,
+        "orientation": "H",
+        "word": "at"
+    },
+    {
+        "x": 6,
+        "y": 1,
+        "orientation": "V",
+        "word": "oral"
+    },
+    {
+        "x": 8,
+        "y": 1,
+        "orientation": "H",
+        "word": "answer"
+    }
+]

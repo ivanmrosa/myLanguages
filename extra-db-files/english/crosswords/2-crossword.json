@@ -1,0 +1,62 @@
+[
+    {
+        "x": 7,
+        "y": 1,
+        "orientation": "V",
+        "word": "hear"
+    },
+    {
+        "x": 10,
+        "y": 1,
+        "orientation": "H",
+        "word": "ridiculous"
+    },
+    {
+        "x": 3,
+        "y": 3,
+        "orientation": "V",
+        "word": "forehead"
+    },
+    {
+        "x": 9,
+        "y": 3,
+        "orientation": "H",
+        "word": "ass"
+    },
+    {
+        "x": 2,
+        "y": 2,
+        "orientation": "V",
+        "word": "cook"
+    },
+    {
+        "x": 3,
+        "y": 2,
+        "orientation": "H",
+        "word": "offer"
+    },
+    {
+        "x": 5,
+        "y": 5,
+        "orientation": "H",
+        "word": "paper"
+    },
+    {
+        "x": 5,
+        "y": 6,
+        "orientation": "V",
+        "word": "aim"
+    },
+    {
+        "x": 5,
+        "y": 7,
+        "orientation": "V",
+        "word": "pencil"
+    },
+    {
+        "x": 9,
+        "y": 7,
+        "orientation": "H",
+        "word": "it"
+    }
+]

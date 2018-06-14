@@ -1,0 +1,62 @@
+[
+    {
+        "x": 1,
+        "y": 3,
+        "orientation": "V",
+        "word": "crowd"
+    },
+    {
+        "x": 2,
+        "y": 3,
+        "orientation": "H",
+        "word": "relate"
+    },
+    {
+        "x": 5,
+        "y": 1,
+        "orientation": "V",
+        "word": "trauma"
+    },
+    {
+        "x": 7,
+        "y": 1,
+        "orientation": "H",
+        "word": "able"
+    },
+    {
+        "x": 5,
+        "y": 7,
+        "orientation": "V",
+        "word": "fierce"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "H",
+        "word": "east"
+    },
+    {
+        "x": 4,
+        "y": 4,
+        "orientation": "V",
+        "word": "somehow"
+    },
+    {
+        "x": 6,
+        "y": 4,
+        "orientation": "H",
+        "word": "movie"
+    },
+    {
+        "x": 5,
+        "y": 7,
+        "orientation": "H",
+        "word": "fool"
+    },
+    {
+        "x": 5,
+        "y": 10,
+        "orientation": "V",
+        "word": "letter"
+    }
+]

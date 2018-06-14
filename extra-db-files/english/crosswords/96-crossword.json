@@ -1,0 +1,86 @@
+[
+    {
+        "x": 4,
+        "y": 4,
+        "orientation": "V",
+        "word": "panic"
+    },
+    {
+        "x": 7,
+        "y": 4,
+        "orientation": "H",
+        "word": "income"
+    },
+    {
+        "x": 5,
+        "y": 7,
+        "orientation": "V",
+        "word": "fool"
+    },
+    {
+        "x": 6,
+        "y": 7,
+        "orientation": "H",
+        "word": "old"
+    },
+    {
+        "x": 1,
+        "y": 2,
+        "orientation": "V",
+        "word": "hey"
+    },
+    {
+        "x": 2,
+        "y": 2,
+        "orientation": "H",
+        "word": "entitle"
+    },
+    {
+        "x": 5,
+        "y": 1,
+        "orientation": "H",
+        "word": "a"
+    },
+    {
+        "x": 5,
+        "y": 1,
+        "orientation": "V",
+        "word": "arrive"
+    },
+    {
+        "x": 2,
+        "y": 6,
+        "orientation": "V",
+        "word": "toe"
+    },
+    {
+        "x": 3,
+        "y": 6,
+        "orientation": "H",
+        "word": "oral"
+    },
+    {
+        "x": 5,
+        "y": 7,
+        "orientation": "H",
+        "word": "flip"
+    },
+    {
+        "x": 5,
+        "y": 9,
+        "orientation": "V",
+        "word": "idea"
+    },
+    {
+        "x": 7,
+        "y": 6,
+        "orientation": "V",
+        "word": "clip"
+    },
+    {
+        "x": 10,
+        "y": 6,
+        "orientation": "H",
+        "word": "plead"
+    }
+]

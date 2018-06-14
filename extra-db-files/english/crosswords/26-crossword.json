@@ -1,0 +1,74 @@
+[
+    {
+        "x": 6,
+        "y": 7,
+        "orientation": "V",
+        "word": "pig"
+    },
+    {
+        "x": 6,
+        "y": 7,
+        "orientation": "H",
+        "word": "peel"
+    },
+    {
+        "x": 1,
+        "y": 1,
+        "orientation": "V",
+        "word": "partner"
+    },
+    {
+        "x": 5,
+        "y": 1,
+        "orientation": "H",
+        "word": "note"
+    },
+    {
+        "x": 2,
+        "y": 6,
+        "orientation": "V",
+        "word": "art"
+    },
+    {
+        "x": 4,
+        "y": 6,
+        "orientation": "H",
+        "word": "twin"
+    },
+    {
+        "x": 3,
+        "y": 4,
+        "orientation": "V",
+        "word": "steer"
+    },
+    {
+        "x": 3,
+        "y": 4,
+        "orientation": "H",
+        "word": "streak"
+    },
+    {
+        "x": 7,
+        "y": 3,
+        "orientation": "V",
+        "word": "map"
+    },
+    {
+        "x": 9,
+        "y": 3,
+        "orientation": "H",
+        "word": "pro"
+    },
+    {
+        "x": 1,
+        "y": 3,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 1,
+        "y": 3,
+        "orientation": "H",
+        "word": "at"
+    }
+]

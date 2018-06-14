@@ -1,0 +1,86 @@
+[
+    {
+        "x": 1,
+        "y": 6,
+        "orientation": "H",
+        "word": "tight"
+    },
+    {
+        "x": 1,
+        "y": 6,
+        "orientation": "V",
+        "word": "tell"
+    },
+    {
+        "x": 3,
+        "y": 6,
+        "orientation": "H",
+        "word": "lobby"
+    },
+    {
+        "x": 3,
+        "y": 10,
+        "orientation": "V",
+        "word": "you"
+    },
+    {
+        "x": 2,
+        "y": 3,
+        "orientation": "V",
+        "word": "column"
+    },
+    {
+        "x": 6,
+        "y": 3,
+        "orientation": "H",
+        "word": "minute"
+    },
+    {
+        "x": 1,
+        "y": 2,
+        "orientation": "V",
+        "word": "barn"
+    },
+    {
+        "x": 2,
+        "y": 2,
+        "orientation": "H",
+        "word": "achieve"
+    },
+    {
+        "x": 6,
+        "y": 7,
+        "orientation": "V",
+        "word": "tale"
+    },
+    {
+        "x": 8,
+        "y": 7,
+        "orientation": "H",
+        "word": "land"
+    },
+    {
+        "x": 5,
+        "y": 3,
+        "orientation": "H",
+        "word": "us"
+    },
+    {
+        "x": 5,
+        "y": 4,
+        "orientation": "V",
+        "word": "silent"
+    },
+    {
+        "x": 7,
+        "y": 2,
+        "orientation": "V",
+        "word": "hug"
+    },
+    {
+        "x": 9,
+        "y": 2,
+        "orientation": "H",
+        "word": "gentleman"
+    }
+]

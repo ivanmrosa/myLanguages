@@ -1,0 +1,86 @@
+[
+    {
+        "x": 4,
+        "y": 7,
+        "orientation": "H",
+        "word": "cash"
+    },
+    {
+        "x": 4,
+        "y": 9,
+        "orientation": "V",
+        "word": "squeeze"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "V",
+        "word": "sex"
+    },
+    {
+        "x": 8,
+        "y": 7,
+        "orientation": "H",
+        "word": "eye"
+    },
+    {
+        "x": 1,
+        "y": 2,
+        "orientation": "V",
+        "word": "portrait"
+    },
+    {
+        "x": 6,
+        "y": 2,
+        "orientation": "H",
+        "word": "auto"
+    },
+    {
+        "x": 2,
+        "y": 6,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 2,
+        "y": 6,
+        "orientation": "H",
+        "word": "awake"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "V",
+        "word": "as"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "H",
+        "word": "art"
+    },
+    {
+        "x": 7,
+        "y": 1,
+        "orientation": "V",
+        "word": "barn"
+    },
+    {
+        "x": 10,
+        "y": 1,
+        "orientation": "H",
+        "word": "nice"
+    },
+    {
+        "x": 4,
+        "y": 8,
+        "orientation": "V",
+        "word": "angry"
+    },
+    {
+        "x": 6,
+        "y": 8,
+        "orientation": "H",
+        "word": "guy"
+    }
+]

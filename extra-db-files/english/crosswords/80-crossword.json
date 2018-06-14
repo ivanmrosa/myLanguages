@@ -1,0 +1,86 @@
+[
+    {
+        "x": 2,
+        "y": 6,
+        "orientation": "H",
+        "word": "tower"
+    },
+    {
+        "x": 2,
+        "y": 6,
+        "orientation": "V",
+        "word": "talented"
+    },
+    {
+        "x": 2,
+        "y": 1,
+        "orientation": "V",
+        "word": "time"
+    },
+    {
+        "x": 4,
+        "y": 1,
+        "orientation": "H",
+        "word": "miracle"
+    },
+    {
+        "x": 3,
+        "y": 5,
+        "orientation": "V",
+        "word": "scatter"
+    },
+    {
+        "x": 3,
+        "y": 5,
+        "orientation": "H",
+        "word": "sail"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "H",
+        "word": "if"
+    },
+    {
+        "x": 3,
+        "y": 2,
+        "orientation": "V",
+        "word": "find"
+    },
+    {
+        "x": 6,
+        "y": 4,
+        "orientation": "V",
+        "word": "dawn"
+    },
+    {
+        "x": 8,
+        "y": 4,
+        "orientation": "H",
+        "word": "week"
+    },
+    {
+        "x": 1,
+        "y": 7,
+        "orientation": "H",
+        "word": "fire"
+    },
+    {
+        "x": 1,
+        "y": 10,
+        "orientation": "V",
+        "word": "era"
+    },
+    {
+        "x": 7,
+        "y": 4,
+        "orientation": "H",
+        "word": "attempt"
+    },
+    {
+        "x": 7,
+        "y": 10,
+        "orientation": "V",
+        "word": "the"
+    }
+]

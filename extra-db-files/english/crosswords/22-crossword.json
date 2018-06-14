@@ -1,0 +1,74 @@
+[
+    {
+        "x": 1,
+        "y": 1,
+        "orientation": "H",
+        "word": "tent"
+    },
+    {
+        "x": 1,
+        "y": 3,
+        "orientation": "V",
+        "word": "noon"
+    },
+    {
+        "x": 5,
+        "y": 4,
+        "orientation": "H",
+        "word": "boost"
+    },
+    {
+        "x": 5,
+        "y": 6,
+        "orientation": "V",
+        "word": "oil"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "V",
+        "word": "date"
+    },
+    {
+        "x": 10,
+        "y": 7,
+        "orientation": "H",
+        "word": "era"
+    },
+    {
+        "x": 2,
+        "y": 5,
+        "orientation": "V",
+        "word": "throat"
+    },
+    {
+        "x": 3,
+        "y": 5,
+        "orientation": "H",
+        "word": "hunt"
+    },
+    {
+        "x": 6,
+        "y": 3,
+        "orientation": "V",
+        "word": "trade"
+    },
+    {
+        "x": 9,
+        "y": 3,
+        "orientation": "H",
+        "word": "digital"
+    },
+    {
+        "x": 4,
+        "y": 7,
+        "orientation": "H",
+        "word": "fool"
+    },
+    {
+        "x": 4,
+        "y": 10,
+        "orientation": "V",
+        "word": "lion"
+    }
+]

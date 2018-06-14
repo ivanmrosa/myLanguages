@@ -1,0 +1,86 @@
+[
+    {
+        "x": 2,
+        "y": 7,
+        "orientation": "H",
+        "word": "disk"
+    },
+    {
+        "x": 2,
+        "y": 9,
+        "orientation": "V",
+        "word": "seller"
+    },
+    {
+        "x": 4,
+        "y": 3,
+        "orientation": "V",
+        "word": "pencil"
+    },
+    {
+        "x": 8,
+        "y": 3,
+        "orientation": "H",
+        "word": "item"
+    },
+    {
+        "x": 6,
+        "y": 6,
+        "orientation": "V",
+        "word": "armed"
+    },
+    {
+        "x": 9,
+        "y": 6,
+        "orientation": "H",
+        "word": "east"
+    },
+    {
+        "x": 2,
+        "y": 4,
+        "orientation": "V",
+        "word": "encounter"
+    },
+    {
+        "x": 3,
+        "y": 4,
+        "orientation": "H",
+        "word": "notice"
+    },
+    {
+        "x": 2,
+        "y": 1,
+        "orientation": "V",
+        "word": "structure"
+    },
+    {
+        "x": 2,
+        "y": 1,
+        "orientation": "H",
+        "word": "sure"
+    },
+    {
+        "x": 4,
+        "y": 7,
+        "orientation": "H",
+        "word": "gold"
+    },
+    {
+        "x": 4,
+        "y": 10,
+        "orientation": "V",
+        "word": "data"
+    },
+    {
+        "x": 8,
+        "y": 8,
+        "orientation": "V",
+        "word": "ass"
+    },
+    {
+        "x": 10,
+        "y": 8,
+        "orientation": "H",
+        "word": "sum"
+    }
+]

@@ -15,9 +15,6 @@ from django.utils.translation import gettext as _
 import os
 
 
-
-
-
 class WordUpload(object):
     def upload_words_from_file(self, language_name, reader_instance):
         assert isinstance(reader_instance, ReaderFile)        
@@ -55,9 +52,6 @@ class LessonUpload(object):
             words_in_lesson += 1
 
                 
-
-
-
 
 def upload_word_from_file():
     csv = input('please, select the csv file...')

@@ -1,0 +1,74 @@
+[
+    {
+        "x": 5,
+        "y": 7,
+        "orientation": "V",
+        "word": "French"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "H",
+        "word": "edit"
+    },
+    {
+        "x": 1,
+        "y": 5,
+        "orientation": "V",
+        "word": "publisher"
+    },
+    {
+        "x": 3,
+        "y": 5,
+        "orientation": "H",
+        "word": "bone"
+    },
+    {
+        "x": 2,
+        "y": 4,
+        "orientation": "H",
+        "word": "dump"
+    },
+    {
+        "x": 2,
+        "y": 6,
+        "orientation": "V",
+        "word": "mood"
+    },
+    {
+        "x": 6,
+        "y": 1,
+        "orientation": "H",
+        "word": "a"
+    },
+    {
+        "x": 6,
+        "y": 1,
+        "orientation": "V",
+        "word": "as"
+    },
+    {
+        "x": 6,
+        "y": 7,
+        "orientation": "H",
+        "word": "ride"
+    },
+    {
+        "x": 6,
+        "y": 8,
+        "orientation": "V",
+        "word": "idea"
+    },
+    {
+        "x": 4,
+        "y": 8,
+        "orientation": "H",
+        "word": "wet"
+    },
+    {
+        "x": 4,
+        "y": 10,
+        "orientation": "V",
+        "word": "tall"
+    }
+]

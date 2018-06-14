@@ -1,0 +1,74 @@
+[
+    {
+        "x": 7,
+        "y": 2,
+        "orientation": "V",
+        "word": "fun"
+    },
+    {
+        "x": 8,
+        "y": 2,
+        "orientation": "H",
+        "word": "unlikely"
+    },
+    {
+        "x": 1,
+        "y": 5,
+        "orientation": "V",
+        "word": "prediction"
+    },
+    {
+        "x": 5,
+        "y": 5,
+        "orientation": "H",
+        "word": "invite"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "V",
+        "word": "sexy"
+    },
+    {
+        "x": 10,
+        "y": 7,
+        "orientation": "H",
+        "word": "year"
+    },
+    {
+        "x": 4,
+        "y": 2,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 4,
+        "y": 2,
+        "orientation": "H",
+        "word": "acid"
+    },
+    {
+        "x": 1,
+        "y": 5,
+        "orientation": "H",
+        "word": "pay"
+    },
+    {
+        "x": 1,
+        "y": 6,
+        "orientation": "V",
+        "word": "ad"
+    },
+    {
+        "x": 4,
+        "y": 7,
+        "orientation": "H",
+        "word": "rear"
+    },
+    {
+        "x": 4,
+        "y": 10,
+        "orientation": "V",
+        "word": "red"
+    }
+]

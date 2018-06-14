@@ -1,0 +1,86 @@
+[
+    {
+        "x": 7,
+        "y": 2,
+        "orientation": "V",
+        "word": "yet"
+    },
+    {
+        "x": 7,
+        "y": 2,
+        "orientation": "H",
+        "word": "year"
+    },
+    {
+        "x": 4,
+        "y": 4,
+        "orientation": "V",
+        "word": "delay"
+    },
+    {
+        "x": 6,
+        "y": 4,
+        "orientation": "H",
+        "word": "local"
+    },
+    {
+        "x": 5,
+        "y": 6,
+        "orientation": "H",
+        "word": "cargo"
+    },
+    {
+        "x": 5,
+        "y": 10,
+        "orientation": "V",
+        "word": "openly"
+    },
+    {
+        "x": 2,
+        "y": 5,
+        "orientation": "V",
+        "word": "Mr"
+    },
+    {
+        "x": 2,
+        "y": 5,
+        "orientation": "H",
+        "word": "Mrs"
+    },
+    {
+        "x": 1,
+        "y": 1,
+        "orientation": "H",
+        "word": "to"
+    },
+    {
+        "x": 1,
+        "y": 1,
+        "orientation": "V",
+        "word": "trade"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "H",
+        "word": "urge"
+    },
+    {
+        "x": 7,
+        "y": 9,
+        "orientation": "V",
+        "word": "grin"
+    },
+    {
+        "x": 10,
+        "y": 5,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 10,
+        "y": 5,
+        "orientation": "H",
+        "word": "as"
+    }
+]

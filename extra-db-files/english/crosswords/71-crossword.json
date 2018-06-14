@@ -1,0 +1,98 @@
+[
+    {
+        "x": 1,
+        "y": 7,
+        "orientation": "H",
+        "word": "lack"
+    },
+    {
+        "x": 1,
+        "y": 7,
+        "orientation": "V",
+        "word": "light"
+    },
+    {
+        "x": 4,
+        "y": 1,
+        "orientation": "V",
+        "word": "below"
+    },
+    {
+        "x": 6,
+        "y": 1,
+        "orientation": "H",
+        "word": "left"
+    },
+    {
+        "x": 1,
+        "y": 3,
+        "orientation": "V",
+        "word": "transform"
+    },
+    {
+        "x": 8,
+        "y": 3,
+        "orientation": "H",
+        "word": "real"
+    },
+    {
+        "x": 3,
+        "y": 4,
+        "orientation": "V",
+        "word": "southern"
+    },
+    {
+        "x": 10,
+        "y": 4,
+        "orientation": "H",
+        "word": "number"
+    },
+    {
+        "x": 4,
+        "y": 6,
+        "orientation": "H",
+        "word": "than"
+    },
+    {
+        "x": 4,
+        "y": 9,
+        "orientation": "V",
+        "word": "nuclear"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "H",
+        "word": "sale"
+    },
+    {
+        "x": 7,
+        "y": 8,
+        "orientation": "V",
+        "word": "able"
+    },
+    {
+        "x": 2,
+        "y": 5,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 2,
+        "y": 5,
+        "orientation": "H",
+        "word": "ask"
+    },
+    {
+        "x": 5,
+        "y": 7,
+        "orientation": "H",
+        "word": "true"
+    },
+    {
+        "x": 5,
+        "y": 10,
+        "orientation": "V",
+        "word": "even"
+    }
+]

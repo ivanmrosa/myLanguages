@@ -1,0 +1,86 @@
+[
+    {
+        "x": 2,
+        "y": 5,
+        "orientation": "H",
+        "word": "outer"
+    },
+    {
+        "x": 2,
+        "y": 6,
+        "orientation": "V",
+        "word": "upstairs"
+    },
+    {
+        "x": 1,
+        "y": 3,
+        "orientation": "H",
+        "word": "he"
+    },
+    {
+        "x": 1,
+        "y": 3,
+        "orientation": "V",
+        "word": "heavily"
+    },
+    {
+        "x": 5,
+        "y": 3,
+        "orientation": "H",
+        "word": "instead"
+    },
+    {
+        "x": 5,
+        "y": 5,
+        "orientation": "V",
+        "word": "scared"
+    },
+    {
+        "x": 1,
+        "y": 7,
+        "orientation": "V",
+        "word": "stare"
+    },
+    {
+        "x": 1,
+        "y": 7,
+        "orientation": "H",
+        "word": "size"
+    },
+    {
+        "x": 7,
+        "y": 5,
+        "orientation": "H",
+        "word": "aide"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "V",
+        "word": "dig"
+    },
+    {
+        "x": 4,
+        "y": 8,
+        "orientation": "V",
+        "word": "mate"
+    },
+    {
+        "x": 6,
+        "y": 8,
+        "orientation": "H",
+        "word": "toy"
+    },
+    {
+        "x": 9,
+        "y": 9,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 9,
+        "y": 9,
+        "orientation": "H",
+        "word": "ad"
+    }
+]

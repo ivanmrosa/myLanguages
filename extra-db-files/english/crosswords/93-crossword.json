@@ -1,0 +1,86 @@
+[
+    {
+        "x": 4,
+        "y": 4,
+        "orientation": "H",
+        "word": "beard"
+    },
+    {
+        "x": 4,
+        "y": 7,
+        "orientation": "V",
+        "word": "rest"
+    },
+    {
+        "x": 1,
+        "y": 3,
+        "orientation": "H",
+        "word": "import"
+    },
+    {
+        "x": 1,
+        "y": 3,
+        "orientation": "V",
+        "word": "in"
+    },
+    {
+        "x": 5,
+        "y": 1,
+        "orientation": "H",
+        "word": "receiver"
+    },
+    {
+        "x": 5,
+        "y": 2,
+        "orientation": "V",
+        "word": "expose"
+    },
+    {
+        "x": 7,
+        "y": 6,
+        "orientation": "V",
+        "word": "coin"
+    },
+    {
+        "x": 10,
+        "y": 6,
+        "orientation": "H",
+        "word": "nut"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "H",
+        "word": "a"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "V",
+        "word": "arrival"
+    },
+    {
+        "x": 2,
+        "y": 7,
+        "orientation": "H",
+        "word": "more"
+    },
+    {
+        "x": 2,
+        "y": 10,
+        "orientation": "V",
+        "word": "enroll"
+    },
+    {
+        "x": 6,
+        "y": 7,
+        "orientation": "H",
+        "word": "sell"
+    },
+    {
+        "x": 6,
+        "y": 9,
+        "orientation": "V",
+        "word": "let"
+    }
+]

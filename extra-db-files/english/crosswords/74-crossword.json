@@ -1,0 +1,74 @@
+[
+    {
+        "x": 6,
+        "y": 1,
+        "orientation": "H",
+        "word": "capable"
+    },
+    {
+        "x": 6,
+        "y": 7,
+        "orientation": "V",
+        "word": "exist"
+    },
+    {
+        "x": 1,
+        "y": 7,
+        "orientation": "V",
+        "word": "run"
+    },
+    {
+        "x": 2,
+        "y": 7,
+        "orientation": "H",
+        "word": "up"
+    },
+    {
+        "x": 2,
+        "y": 4,
+        "orientation": "V",
+        "word": "bureau"
+    },
+    {
+        "x": 3,
+        "y": 4,
+        "orientation": "H",
+        "word": "upon"
+    },
+    {
+        "x": 4,
+        "y": 3,
+        "orientation": "V",
+        "word": "apple"
+    },
+    {
+        "x": 4,
+        "y": 3,
+        "orientation": "H",
+        "word": "art"
+    },
+    {
+        "x": 5,
+        "y": 6,
+        "orientation": "V",
+        "word": "planet"
+    },
+    {
+        "x": 8,
+        "y": 6,
+        "orientation": "H",
+        "word": "night"
+    },
+    {
+        "x": 1,
+        "y": 7,
+        "orientation": "H",
+        "word": "rape"
+    },
+    {
+        "x": 1,
+        "y": 10,
+        "orientation": "V",
+        "word": "elaborate"
+    }
+]

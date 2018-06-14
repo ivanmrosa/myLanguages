@@ -1,0 +1,62 @@
+[
+    {
+        "x": 4,
+        "y": 2,
+        "orientation": "V",
+        "word": "skin"
+    },
+    {
+        "x": 6,
+        "y": 2,
+        "orientation": "H",
+        "word": "irony"
+    },
+    {
+        "x": 3,
+        "y": 7,
+        "orientation": "V",
+        "word": "me"
+    },
+    {
+        "x": 4,
+        "y": 7,
+        "orientation": "H",
+        "word": "evil"
+    },
+    {
+        "x": 5,
+        "y": 4,
+        "orientation": "V",
+        "word": "sock"
+    },
+    {
+        "x": 7,
+        "y": 4,
+        "orientation": "H",
+        "word": "critic"
+    },
+    {
+        "x": 1,
+        "y": 2,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 1,
+        "y": 2,
+        "orientation": "H",
+        "word": "afternoon"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "V",
+        "word": "till"
+    },
+    {
+        "x": 9,
+        "y": 7,
+        "orientation": "H",
+        "word": "long"
+    }
+]

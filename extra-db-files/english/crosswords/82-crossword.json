@@ -1,0 +1,86 @@
+[
+    {
+        "x": 7,
+        "y": 5,
+        "orientation": "V",
+        "word": "war"
+    },
+    {
+        "x": 9,
+        "y": 5,
+        "orientation": "H",
+        "word": "record"
+    },
+    {
+        "x": 5,
+        "y": 7,
+        "orientation": "V",
+        "word": "source"
+    },
+    {
+        "x": 8,
+        "y": 7,
+        "orientation": "H",
+        "word": "rid"
+    },
+    {
+        "x": 1,
+        "y": 2,
+        "orientation": "V",
+        "word": "southern"
+    },
+    {
+        "x": 1,
+        "y": 2,
+        "orientation": "H",
+        "word": "stuff"
+    },
+    {
+        "x": 2,
+        "y": 1,
+        "orientation": "V",
+        "word": "pack"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "H",
+        "word": "auction"
+    },
+    {
+        "x": 5,
+        "y": 6,
+        "orientation": "V",
+        "word": "vs"
+    },
+    {
+        "x": 6,
+        "y": 6,
+        "orientation": "H",
+        "word": "sound"
+    },
+    {
+        "x": 7,
+        "y": 1,
+        "orientation": "V",
+        "word": "vast"
+    },
+    {
+        "x": 10,
+        "y": 1,
+        "orientation": "H",
+        "word": "toe"
+    },
+    {
+        "x": 1,
+        "y": 5,
+        "orientation": "V",
+        "word": "fair"
+    },
+    {
+        "x": 2,
+        "y": 5,
+        "orientation": "H",
+        "word": "abroad"
+    }
+]

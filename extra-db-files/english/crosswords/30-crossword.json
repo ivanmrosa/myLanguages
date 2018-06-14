@@ -1,0 +1,86 @@
+[
+    {
+        "x": 5,
+        "y": 7,
+        "orientation": "V",
+        "word": "feel"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "H",
+        "word": "ease"
+    },
+    {
+        "x": 6,
+        "y": 5,
+        "orientation": "V",
+        "word": "sale"
+    },
+    {
+        "x": 6,
+        "y": 5,
+        "orientation": "H",
+        "word": "sue"
+    },
+    {
+        "x": 7,
+        "y": 1,
+        "orientation": "V",
+        "word": "bold"
+    },
+    {
+        "x": 10,
+        "y": 1,
+        "orientation": "H",
+        "word": "dig"
+    },
+    {
+        "x": 2,
+        "y": 4,
+        "orientation": "V",
+        "word": "oak"
+    },
+    {
+        "x": 3,
+        "y": 4,
+        "orientation": "H",
+        "word": "alive"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "V",
+        "word": "Ms"
+    },
+    {
+        "x": 4,
+        "y": 1,
+        "orientation": "H",
+        "word": "shake"
+    },
+    {
+        "x": 2,
+        "y": 4,
+        "orientation": "H",
+        "word": "organic"
+    },
+    {
+        "x": 2,
+        "y": 10,
+        "orientation": "V",
+        "word": "cruise"
+    },
+    {
+        "x": 10,
+        "y": 7,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 10,
+        "y": 7,
+        "orientation": "H",
+        "word": "ash"
+    }
+]

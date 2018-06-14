@@ -1,0 +1,74 @@
+[
+    {
+        "x": 6,
+        "y": 1,
+        "orientation": "H",
+        "word": "fold"
+    },
+    {
+        "x": 6,
+        "y": 3,
+        "orientation": "V",
+        "word": "loss"
+    },
+    {
+        "x": 2,
+        "y": 6,
+        "orientation": "H",
+        "word": "break"
+    },
+    {
+        "x": 2,
+        "y": 9,
+        "orientation": "V",
+        "word": "ankle"
+    },
+    {
+        "x": 3,
+        "y": 2,
+        "orientation": "H",
+        "word": "president"
+    },
+    {
+        "x": 3,
+        "y": 4,
+        "orientation": "V",
+        "word": "evidence"
+    },
+    {
+        "x": 2,
+        "y": 6,
+        "orientation": "V",
+        "word": "bill"
+    },
+    {
+        "x": 4,
+        "y": 6,
+        "orientation": "H",
+        "word": "lack"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "H",
+        "word": "a"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "V",
+        "word": "ash"
+    },
+    {
+        "x": 8,
+        "y": 8,
+        "orientation": "V",
+        "word": "gap"
+    },
+    {
+        "x": 10,
+        "y": 8,
+        "orientation": "H",
+        "word": "put"
+    }
+]

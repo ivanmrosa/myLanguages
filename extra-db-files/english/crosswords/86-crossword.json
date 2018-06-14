@@ -1,0 +1,74 @@
+[
+    {
+        "x": 2,
+        "y": 2,
+        "orientation": "V",
+        "word": "helmet"
+    },
+    {
+        "x": 7,
+        "y": 2,
+        "orientation": "H",
+        "word": "trap"
+    },
+    {
+        "x": 5,
+        "y": 5,
+        "orientation": "V",
+        "word": "super"
+    },
+    {
+        "x": 9,
+        "y": 5,
+        "orientation": "H",
+        "word": "remind"
+    },
+    {
+        "x": 4,
+        "y": 6,
+        "orientation": "V",
+        "word": "ie"
+    },
+    {
+        "x": 4,
+        "y": 6,
+        "orientation": "H",
+        "word": "index"
+    },
+    {
+        "x": 7,
+        "y": 3,
+        "orientation": "V",
+        "word": "rail"
+    },
+    {
+        "x": 8,
+        "y": 3,
+        "orientation": "H",
+        "word": "agenda"
+    },
+    {
+        "x": 2,
+        "y": 5,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 2,
+        "y": 5,
+        "orientation": "H",
+        "word": "ad"
+    },
+    {
+        "x": 8,
+        "y": 6,
+        "orientation": "V",
+        "word": "new"
+    },
+    {
+        "x": 10,
+        "y": 6,
+        "orientation": "H",
+        "word": "wind"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "x": 4,
+        "y": 3,
+        "orientation": "H",
+        "word": "prime"
+    },
+    {
+        "x": 4,
+        "y": 7,
+        "orientation": "V",
+        "word": "empire"
+    },
+    {
+        "x": 5,
+        "y": 2,
+        "orientation": "H",
+        "word": "agreement"
+    },
+    {
+        "x": 5,
+        "y": 10,
+        "orientation": "V",
+        "word": "trial"
+    },
+    {
+        "x": 1,
+        "y": 2,
+        "orientation": "H",
+        "word": "opposed"
+    },
+    {
+        "x": 1,
+        "y": 6,
+        "orientation": "V",
+        "word": "segment"
+    },
+    {
+        "x": 7,
+        "y": 1,
+        "orientation": "V",
+        "word": "she"
+    },
+    {
+        "x": 8,
+        "y": 1,
+        "orientation": "H",
+        "word": "huge"
+    },
+    {
+        "x": 2,
+        "y": 1,
+        "orientation": "V",
+        "word": "us"
+    },
+    {
+        "x": 2,
+        "y": 1,
+        "orientation": "H",
+        "word": "up"
+    },
+    {
+        "x": 9,
+        "y": 5,
+        "orientation": "H",
+        "word": "a"
+    },
+    {
+        "x": 9,
+        "y": 5,
+        "orientation": "V",
+        "word": "as"
+    }
+]

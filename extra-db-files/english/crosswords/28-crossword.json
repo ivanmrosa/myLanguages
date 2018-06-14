@@ -1,0 +1,86 @@
+[
+    {
+        "x": 6,
+        "y": 1,
+        "orientation": "H",
+        "word": "outlet"
+    },
+    {
+        "x": 6,
+        "y": 3,
+        "orientation": "V",
+        "word": "think"
+    },
+    {
+        "x": 3,
+        "y": 4,
+        "orientation": "H",
+        "word": "pace"
+    },
+    {
+        "x": 3,
+        "y": 4,
+        "orientation": "V",
+        "word": "pool"
+    },
+    {
+        "x": 3,
+        "y": 6,
+        "orientation": "V",
+        "word": "critical"
+    },
+    {
+        "x": 8,
+        "y": 6,
+        "orientation": "H",
+        "word": "cart"
+    },
+    {
+        "x": 4,
+        "y": 6,
+        "orientation": "H",
+        "word": "ready"
+    },
+    {
+        "x": 4,
+        "y": 8,
+        "orientation": "V",
+        "word": "afford"
+    },
+    {
+        "x": 7,
+        "y": 6,
+        "orientation": "H",
+        "word": "irony"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "V",
+        "word": "rate"
+    },
+    {
+        "x": 1,
+        "y": 3,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 1,
+        "y": 3,
+        "orientation": "H",
+        "word": "at"
+    },
+    {
+        "x": 2,
+        "y": 7,
+        "orientation": "V",
+        "word": "see"
+    },
+    {
+        "x": 2,
+        "y": 7,
+        "orientation": "H",
+        "word": "ski"
+    }
+]

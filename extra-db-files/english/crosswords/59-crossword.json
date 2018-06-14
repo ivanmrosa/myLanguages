@@ -1,0 +1,86 @@
+[
+    {
+        "x": 7,
+        "y": 1,
+        "orientation": "H",
+        "word": "failure"
+    },
+    {
+        "x": 7,
+        "y": 1,
+        "orientation": "V",
+        "word": "file"
+    },
+    {
+        "x": 4,
+        "y": 7,
+        "orientation": "V",
+        "word": "license"
+    },
+    {
+        "x": 8,
+        "y": 7,
+        "orientation": "H",
+        "word": "name"
+    },
+    {
+        "x": 1,
+        "y": 7,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 1,
+        "y": 7,
+        "orientation": "H",
+        "word": "art"
+    },
+    {
+        "x": 6,
+        "y": 2,
+        "orientation": "V",
+        "word": "fare"
+    },
+    {
+        "x": 6,
+        "y": 2,
+        "orientation": "H",
+        "word": "finance"
+    },
+    {
+        "x": 1,
+        "y": 4,
+        "orientation": "V",
+        "word": "suddenly"
+    },
+    {
+        "x": 5,
+        "y": 4,
+        "orientation": "H",
+        "word": "equity"
+    },
+    {
+        "x": 1,
+        "y": 3,
+        "orientation": "H",
+        "word": "us"
+    },
+    {
+        "x": 1,
+        "y": 3,
+        "orientation": "V",
+        "word": "up"
+    },
+    {
+        "x": 2,
+        "y": 1,
+        "orientation": "V",
+        "word": "era"
+    },
+    {
+        "x": 4,
+        "y": 1,
+        "orientation": "H",
+        "word": "acid"
+    }
+]

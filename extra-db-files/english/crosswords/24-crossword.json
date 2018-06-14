@@ -1,0 +1,86 @@
+[
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "H",
+        "word": "contest"
+    },
+    {
+        "x": 3,
+        "y": 7,
+        "orientation": "V",
+        "word": "then"
+    },
+    {
+        "x": 6,
+        "y": 6,
+        "orientation": "H",
+        "word": "ankle"
+    },
+    {
+        "x": 6,
+        "y": 9,
+        "orientation": "V",
+        "word": "learn"
+    },
+    {
+        "x": 2,
+        "y": 4,
+        "orientation": "H",
+        "word": "a"
+    },
+    {
+        "x": 2,
+        "y": 4,
+        "orientation": "V",
+        "word": "attorney"
+    },
+    {
+        "x": 5,
+        "y": 3,
+        "orientation": "H",
+        "word": "solve"
+    },
+    {
+        "x": 5,
+        "y": 6,
+        "orientation": "V",
+        "word": "vanish"
+    },
+    {
+        "x": 1,
+        "y": 5,
+        "orientation": "H",
+        "word": "season"
+    },
+    {
+        "x": 1,
+        "y": 10,
+        "orientation": "V",
+        "word": "nature"
+    },
+    {
+        "x": 6,
+        "y": 1,
+        "orientation": "V",
+        "word": "extra"
+    },
+    {
+        "x": 10,
+        "y": 1,
+        "orientation": "H",
+        "word": "at"
+    },
+    {
+        "x": 8,
+        "y": 6,
+        "orientation": "H",
+        "word": "idea"
+    },
+    {
+        "x": 8,
+        "y": 8,
+        "orientation": "V",
+        "word": "eat"
+    }
+]

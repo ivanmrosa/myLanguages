@@ -1,0 +1,62 @@
+[
+    {
+        "x": 2,
+        "y": 1,
+        "orientation": "H",
+        "word": "solar"
+    },
+    {
+        "x": 2,
+        "y": 5,
+        "orientation": "V",
+        "word": "receiver"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "V",
+        "word": "exit"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "H",
+        "word": "edge"
+    },
+    {
+        "x": 1,
+        "y": 4,
+        "orientation": "V",
+        "word": "cat"
+    },
+    {
+        "x": 3,
+        "y": 4,
+        "orientation": "H",
+        "word": "teenage"
+    },
+    {
+        "x": 2,
+        "y": 7,
+        "orientation": "V",
+        "word": "one"
+    },
+    {
+        "x": 4,
+        "y": 7,
+        "orientation": "H",
+        "word": "echo"
+    },
+    {
+        "x": 6,
+        "y": 9,
+        "orientation": "V",
+        "word": "ugly"
+    },
+    {
+        "x": 6,
+        "y": 9,
+        "orientation": "H",
+        "word": "up"
+    }
+]

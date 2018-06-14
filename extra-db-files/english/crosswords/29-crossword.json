@@ -1,0 +1,74 @@
+[
+    {
+        "x": 3,
+        "y": 5,
+        "orientation": "H",
+        "word": "flat"
+    },
+    {
+        "x": 3,
+        "y": 8,
+        "orientation": "V",
+        "word": "terror"
+    },
+    {
+        "x": 7,
+        "y": 4,
+        "orientation": "V",
+        "word": "wife"
+    },
+    {
+        "x": 9,
+        "y": 4,
+        "orientation": "H",
+        "word": "fix"
+    },
+    {
+        "x": 4,
+        "y": 3,
+        "orientation": "V",
+        "word": "same"
+    },
+    {
+        "x": 5,
+        "y": 3,
+        "orientation": "H",
+        "word": "anymore"
+    },
+    {
+        "x": 1,
+        "y": 4,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 1,
+        "y": 4,
+        "orientation": "H",
+        "word": "at"
+    },
+    {
+        "x": 7,
+        "y": 6,
+        "orientation": "V",
+        "word": "sex"
+    },
+    {
+        "x": 8,
+        "y": 6,
+        "orientation": "H",
+        "word": "ear"
+    },
+    {
+        "x": 9,
+        "y": 9,
+        "orientation": "H",
+        "word": "or"
+    },
+    {
+        "x": 9,
+        "y": 9,
+        "orientation": "V",
+        "word": "of"
+    }
+]

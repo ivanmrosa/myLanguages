@@ -1,0 +1,86 @@
+[
+    {
+        "x": 1,
+        "y": 6,
+        "orientation": "H",
+        "word": "heal"
+    },
+    {
+        "x": 1,
+        "y": 6,
+        "orientation": "V",
+        "word": "housing"
+    },
+    {
+        "x": 7,
+        "y": 6,
+        "orientation": "H",
+        "word": "gate"
+    },
+    {
+        "x": 7,
+        "y": 8,
+        "orientation": "V",
+        "word": "tag"
+    },
+    {
+        "x": 6,
+        "y": 3,
+        "orientation": "V",
+        "word": "duck"
+    },
+    {
+        "x": 6,
+        "y": 3,
+        "orientation": "H",
+        "word": "down"
+    },
+    {
+        "x": 2,
+        "y": 2,
+        "orientation": "V",
+        "word": "van"
+    },
+    {
+        "x": 4,
+        "y": 2,
+        "orientation": "H",
+        "word": "necessary"
+    },
+    {
+        "x": 7,
+        "y": 1,
+        "orientation": "V",
+        "word": "be"
+    },
+    {
+        "x": 8,
+        "y": 1,
+        "orientation": "H",
+        "word": "each"
+    },
+    {
+        "x": 4,
+        "y": 4,
+        "orientation": "V",
+        "word": "clothes"
+    },
+    {
+        "x": 10,
+        "y": 4,
+        "orientation": "H",
+        "word": "set"
+    },
+    {
+        "x": 4,
+        "y": 9,
+        "orientation": "V",
+        "word": "rider"
+    },
+    {
+        "x": 5,
+        "y": 9,
+        "orientation": "H",
+        "word": "if"
+    }
+]

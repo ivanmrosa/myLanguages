@@ -1,0 +1,74 @@
+[
+    {
+        "x": 6,
+        "y": 5,
+        "orientation": "V",
+        "word": "enact"
+    },
+    {
+        "x": 8,
+        "y": 5,
+        "orientation": "H",
+        "word": "adjust"
+    },
+    {
+        "x": 5,
+        "y": 6,
+        "orientation": "V",
+        "word": "mild"
+    },
+    {
+        "x": 5,
+        "y": 6,
+        "orientation": "H",
+        "word": "most"
+    },
+    {
+        "x": 2,
+        "y": 2,
+        "orientation": "V",
+        "word": "couch"
+    },
+    {
+        "x": 3,
+        "y": 2,
+        "orientation": "H",
+        "word": "only"
+    },
+    {
+        "x": 2,
+        "y": 5,
+        "orientation": "V",
+        "word": "by"
+    },
+    {
+        "x": 2,
+        "y": 5,
+        "orientation": "H",
+        "word": "bold"
+    },
+    {
+        "x": 6,
+        "y": 5,
+        "orientation": "H",
+        "word": "either"
+    },
+    {
+        "x": 6,
+        "y": 10,
+        "orientation": "V",
+        "word": "rate"
+    },
+    {
+        "x": 10,
+        "y": 3,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 10,
+        "y": 3,
+        "orientation": "H",
+        "word": "active"
+    }
+]

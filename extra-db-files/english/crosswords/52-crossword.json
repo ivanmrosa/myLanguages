@@ -1,0 +1,98 @@
+[
+    {
+        "x": 7,
+        "y": 3,
+        "orientation": "H",
+        "word": "agency"
+    },
+    {
+        "x": 7,
+        "y": 8,
+        "orientation": "V",
+        "word": "year"
+    },
+    {
+        "x": 5,
+        "y": 5,
+        "orientation": "V",
+        "word": "sleeve"
+    },
+    {
+        "x": 8,
+        "y": 5,
+        "orientation": "H",
+        "word": "expert"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "V",
+        "word": "party"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "H",
+        "word": "pursue"
+    },
+    {
+        "x": 6,
+        "y": 3,
+        "orientation": "V",
+        "word": "table"
+    },
+    {
+        "x": 6,
+        "y": 3,
+        "orientation": "H",
+        "word": "tale"
+    },
+    {
+        "x": 1,
+        "y": 2,
+        "orientation": "V",
+        "word": "hour"
+    },
+    {
+        "x": 2,
+        "y": 2,
+        "orientation": "H",
+        "word": "obtain"
+    },
+    {
+        "x": 4,
+        "y": 7,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 4,
+        "y": 7,
+        "orientation": "H",
+        "word": "at"
+    },
+    {
+        "x": 1,
+        "y": 9,
+        "orientation": "V",
+        "word": "on"
+    },
+    {
+        "x": 1,
+        "y": 9,
+        "orientation": "H",
+        "word": "or"
+    },
+    {
+        "x": 8,
+        "y": 7,
+        "orientation": "V",
+        "word": "pin"
+    },
+    {
+        "x": 8,
+        "y": 7,
+        "orientation": "H",
+        "word": "pet"
+    }
+]

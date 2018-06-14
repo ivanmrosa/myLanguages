@@ -1,0 +1,86 @@
+[
+    {
+        "x": 5,
+        "y": 7,
+        "orientation": "H",
+        "word": "home"
+    },
+    {
+        "x": 5,
+        "y": 9,
+        "orientation": "V",
+        "word": "mount"
+    },
+    {
+        "x": 6,
+        "y": 3,
+        "orientation": "V",
+        "word": "chop"
+    },
+    {
+        "x": 6,
+        "y": 3,
+        "orientation": "H",
+        "word": "creation"
+    },
+    {
+        "x": 2,
+        "y": 5,
+        "orientation": "V",
+        "word": "slavery"
+    },
+    {
+        "x": 2,
+        "y": 5,
+        "orientation": "H",
+        "word": "seize"
+    },
+    {
+        "x": 1,
+        "y": 2,
+        "orientation": "V",
+        "word": "poor"
+    },
+    {
+        "x": 4,
+        "y": 2,
+        "orientation": "H",
+        "word": "repair"
+    },
+    {
+        "x": 3,
+        "y": 4,
+        "orientation": "V",
+        "word": "spare"
+    },
+    {
+        "x": 3,
+        "y": 4,
+        "orientation": "H",
+        "word": "slight"
+    },
+    {
+        "x": 6,
+        "y": 6,
+        "orientation": "V",
+        "word": "album"
+    },
+    {
+        "x": 9,
+        "y": 6,
+        "orientation": "H",
+        "word": "unity"
+    },
+    {
+        "x": 1,
+        "y": 1,
+        "orientation": "H",
+        "word": "up"
+    },
+    {
+        "x": 1,
+        "y": 1,
+        "orientation": "V",
+        "word": "us"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "x": 6,
+        "y": 1,
+        "orientation": "V",
+        "word": "drown"
+    },
+    {
+        "x": 9,
+        "y": 1,
+        "orientation": "H",
+        "word": "which"
+    },
+    {
+        "x": 7,
+        "y": 5,
+        "orientation": "V",
+        "word": "echo"
+    },
+    {
+        "x": 8,
+        "y": 5,
+        "orientation": "H",
+        "word": "comply"
+    },
+    {
+        "x": 1,
+        "y": 4,
+        "orientation": "V",
+        "word": "local"
+    },
+    {
+        "x": 5,
+        "y": 4,
+        "orientation": "H",
+        "word": "leader"
+    },
+    {
+        "x": 5,
+        "y": 7,
+        "orientation": "V",
+        "word": "drum"
+    },
+    {
+        "x": 6,
+        "y": 7,
+        "orientation": "H",
+        "word": "rid"
+    },
+    {
+        "x": 1,
+        "y": 3,
+        "orientation": "V",
+        "word": "gas"
+    },
+    {
+        "x": 3,
+        "y": 3,
+        "orientation": "H",
+        "word": "scope"
+    },
+    {
+        "x": 7,
+        "y": 3,
+        "orientation": "V",
+        "word": "wait"
+    },
+    {
+        "x": 10,
+        "y": 3,
+        "orientation": "H",
+        "word": "too"
+    },
+    {
+        "x": 10,
+        "y": 8,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 10,
+        "y": 8,
+        "orientation": "H",
+        "word": "and"
+    },
+    {
+        "x": 2,
+        "y": 9,
+        "orientation": "V",
+        "word": "no"
+    },
+    {
+        "x": 3,
+        "y": 9,
+        "orientation": "H",
+        "word": "or"
+    }
+]

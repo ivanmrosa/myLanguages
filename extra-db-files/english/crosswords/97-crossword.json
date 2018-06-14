@@ -1,0 +1,86 @@
+[
+    {
+        "x": 7,
+        "y": 2,
+        "orientation": "V",
+        "word": "tray"
+    },
+    {
+        "x": 9,
+        "y": 2,
+        "orientation": "H",
+        "word": "actress"
+    },
+    {
+        "x": 5,
+        "y": 1,
+        "orientation": "V",
+        "word": "oil"
+    },
+    {
+        "x": 5,
+        "y": 1,
+        "orientation": "H",
+        "word": "opposed"
+    },
+    {
+        "x": 7,
+        "y": 5,
+        "orientation": "V",
+        "word": "wire"
+    },
+    {
+        "x": 8,
+        "y": 5,
+        "orientation": "H",
+        "word": "image"
+    },
+    {
+        "x": 4,
+        "y": 4,
+        "orientation": "V",
+        "word": "son"
+    },
+    {
+        "x": 4,
+        "y": 4,
+        "orientation": "H",
+        "word": "swear"
+    },
+    {
+        "x": 1,
+        "y": 1,
+        "orientation": "V",
+        "word": "be"
+    },
+    {
+        "x": 1,
+        "y": 1,
+        "orientation": "H",
+        "word": "both"
+    },
+    {
+        "x": 1,
+        "y": 7,
+        "orientation": "H",
+        "word": "trap"
+    },
+    {
+        "x": 1,
+        "y": 10,
+        "orientation": "V",
+        "word": "pig"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "V",
+        "word": "mask"
+    },
+    {
+        "x": 10,
+        "y": 7,
+        "orientation": "H",
+        "word": "keep"
+    }
+]

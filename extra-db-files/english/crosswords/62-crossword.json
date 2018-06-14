@@ -1,0 +1,98 @@
+[
+    {
+        "x": 3,
+        "y": 3,
+        "orientation": "V",
+        "word": "conduct"
+    },
+    {
+        "x": 8,
+        "y": 3,
+        "orientation": "H",
+        "word": "cabin"
+    },
+    {
+        "x": 3,
+        "y": 5,
+        "orientation": "V",
+        "word": "scramble"
+    },
+    {
+        "x": 10,
+        "y": 5,
+        "orientation": "H",
+        "word": "end"
+    },
+    {
+        "x": 6,
+        "y": 2,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 6,
+        "y": 2,
+        "orientation": "H",
+        "word": "advance"
+    },
+    {
+        "x": 1,
+        "y": 2,
+        "orientation": "V",
+        "word": "ass"
+    },
+    {
+        "x": 1,
+        "y": 2,
+        "orientation": "H",
+        "word": "affect"
+    },
+    {
+        "x": 7,
+        "y": 1,
+        "orientation": "V",
+        "word": "put"
+    },
+    {
+        "x": 9,
+        "y": 1,
+        "orientation": "H",
+        "word": "total"
+    },
+    {
+        "x": 3,
+        "y": 7,
+        "orientation": "H",
+        "word": "hay"
+    },
+    {
+        "x": 3,
+        "y": 8,
+        "orientation": "V",
+        "word": "able"
+    },
+    {
+        "x": 2,
+        "y": 9,
+        "orientation": "V",
+        "word": "ok"
+    },
+    {
+        "x": 2,
+        "y": 9,
+        "orientation": "H",
+        "word": "on"
+    },
+    {
+        "x": 9,
+        "y": 8,
+        "orientation": "H",
+        "word": "uh"
+    },
+    {
+        "x": 9,
+        "y": 9,
+        "orientation": "V",
+        "word": "hi"
+    }
+]

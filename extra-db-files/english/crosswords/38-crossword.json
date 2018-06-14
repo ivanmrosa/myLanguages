@@ -1,0 +1,62 @@
+[
+    {
+        "x": 4,
+        "y": 3,
+        "orientation": "V",
+        "word": "evolve"
+    },
+    {
+        "x": 4,
+        "y": 3,
+        "orientation": "H",
+        "word": "earth"
+    },
+    {
+        "x": 3,
+        "y": 5,
+        "orientation": "V",
+        "word": "grant"
+    },
+    {
+        "x": 6,
+        "y": 5,
+        "orientation": "H",
+        "word": "nut"
+    },
+    {
+        "x": 5,
+        "y": 2,
+        "orientation": "V",
+        "word": "bless"
+    },
+    {
+        "x": 9,
+        "y": 2,
+        "orientation": "H",
+        "word": "sentiment"
+    },
+    {
+        "x": 6,
+        "y": 7,
+        "orientation": "V",
+        "word": "theme"
+    },
+    {
+        "x": 10,
+        "y": 7,
+        "orientation": "H",
+        "word": "exam"
+    },
+    {
+        "x": 1,
+        "y": 3,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 1,
+        "y": 3,
+        "orientation": "H",
+        "word": "arrange"
+    }
+]

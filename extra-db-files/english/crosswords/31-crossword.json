@@ -1,0 +1,74 @@
+[
+    {
+        "x": 3,
+        "y": 6,
+        "orientation": "H",
+        "word": "best"
+    },
+    {
+        "x": 3,
+        "y": 7,
+        "orientation": "V",
+        "word": "elderly"
+    },
+    {
+        "x": 5,
+        "y": 5,
+        "orientation": "V",
+        "word": "injure"
+    },
+    {
+        "x": 9,
+        "y": 5,
+        "orientation": "H",
+        "word": "rhythm"
+    },
+    {
+        "x": 2,
+        "y": 2,
+        "orientation": "H",
+        "word": "hit"
+    },
+    {
+        "x": 2,
+        "y": 3,
+        "orientation": "V",
+        "word": "in"
+    },
+    {
+        "x": 6,
+        "y": 3,
+        "orientation": "V",
+        "word": "re"
+    },
+    {
+        "x": 6,
+        "y": 3,
+        "orientation": "H",
+        "word": "render"
+    },
+    {
+        "x": 7,
+        "y": 1,
+        "orientation": "V",
+        "word": "suit"
+    },
+    {
+        "x": 10,
+        "y": 1,
+        "orientation": "H",
+        "word": "tribe"
+    },
+    {
+        "x": 8,
+        "y": 9,
+        "orientation": "H",
+        "word": "or"
+    },
+    {
+        "x": 8,
+        "y": 9,
+        "orientation": "V",
+        "word": "oh"
+    }
+]

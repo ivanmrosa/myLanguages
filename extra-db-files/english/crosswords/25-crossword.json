@@ -1,0 +1,62 @@
+[
+    {
+        "x": 4,
+        "y": 7,
+        "orientation": "V",
+        "word": "barrel"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "H",
+        "word": "rape"
+    },
+    {
+        "x": 3,
+        "y": 4,
+        "orientation": "V",
+        "word": "bee"
+    },
+    {
+        "x": 4,
+        "y": 4,
+        "orientation": "H",
+        "word": "enable"
+    },
+    {
+        "x": 1,
+        "y": 7,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 1,
+        "y": 7,
+        "orientation": "H",
+        "word": "as"
+    },
+    {
+        "x": 3,
+        "y": 5,
+        "orientation": "V",
+        "word": "anxiety"
+    },
+    {
+        "x": 9,
+        "y": 5,
+        "orientation": "H",
+        "word": "yellow"
+    },
+    {
+        "x": 1,
+        "y": 2,
+        "orientation": "H",
+        "word": "ear"
+    },
+    {
+        "x": 1,
+        "y": 2,
+        "orientation": "V",
+        "word": "experience"
+    }
+]

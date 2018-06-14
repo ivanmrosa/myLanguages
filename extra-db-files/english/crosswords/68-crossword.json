@@ -1,0 +1,98 @@
+[
+    {
+        "x": 4,
+        "y": 1,
+        "orientation": "H",
+        "word": "pull"
+    },
+    {
+        "x": 4,
+        "y": 4,
+        "orientation": "V",
+        "word": "lack"
+    },
+    {
+        "x": 2,
+        "y": 2,
+        "orientation": "V",
+        "word": "abuse"
+    },
+    {
+        "x": 5,
+        "y": 2,
+        "orientation": "H",
+        "word": "statement"
+    },
+    {
+        "x": 1,
+        "y": 5,
+        "orientation": "V",
+        "word": "it"
+    },
+    {
+        "x": 1,
+        "y": 5,
+        "orientation": "H",
+        "word": "immune"
+    },
+    {
+        "x": 2,
+        "y": 1,
+        "orientation": "H",
+        "word": "maintain"
+    },
+    {
+        "x": 2,
+        "y": 3,
+        "orientation": "V",
+        "word": "if"
+    },
+    {
+        "x": 5,
+        "y": 5,
+        "orientation": "V",
+        "word": "tube"
+    },
+    {
+        "x": 8,
+        "y": 5,
+        "orientation": "H",
+        "word": "extra"
+    },
+    {
+        "x": 3,
+        "y": 6,
+        "orientation": "H",
+        "word": "angle"
+    },
+    {
+        "x": 3,
+        "y": 9,
+        "orientation": "V",
+        "word": "language"
+    },
+    {
+        "x": 5,
+        "y": 7,
+        "orientation": "V",
+        "word": "most"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "H",
+        "word": "soul"
+    },
+    {
+        "x": 10,
+        "y": 5,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 10,
+        "y": 5,
+        "orientation": "H",
+        "word": "answer"
+    }
+]

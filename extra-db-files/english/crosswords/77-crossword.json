@@ -1,0 +1,62 @@
+[
+    {
+        "x": 2,
+        "y": 5,
+        "orientation": "H",
+        "word": "head"
+    },
+    {
+        "x": 2,
+        "y": 6,
+        "orientation": "V",
+        "word": "extreme"
+    },
+    {
+        "x": 3,
+        "y": 2,
+        "orientation": "H",
+        "word": "relax"
+    },
+    {
+        "x": 3,
+        "y": 4,
+        "orientation": "V",
+        "word": "line"
+    },
+    {
+        "x": 7,
+        "y": 6,
+        "orientation": "H",
+        "word": "media"
+    },
+    {
+        "x": 7,
+        "y": 8,
+        "orientation": "V",
+        "word": "dig"
+    },
+    {
+        "x": 1,
+        "y": 7,
+        "orientation": "H",
+        "word": "we"
+    },
+    {
+        "x": 1,
+        "y": 8,
+        "orientation": "V",
+        "word": "edge"
+    },
+    {
+        "x": 4,
+        "y": 8,
+        "orientation": "H",
+        "word": "eat"
+    },
+    {
+        "x": 4,
+        "y": 10,
+        "orientation": "V",
+        "word": "trial"
+    }
+]

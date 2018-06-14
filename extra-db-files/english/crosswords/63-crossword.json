@@ -1,0 +1,74 @@
+[
+    {
+        "x": 6,
+        "y": 7,
+        "orientation": "V",
+        "word": "burst"
+    },
+    {
+        "x": 8,
+        "y": 7,
+        "orientation": "H",
+        "word": "rail"
+    },
+    {
+        "x": 3,
+        "y": 6,
+        "orientation": "V",
+        "word": "pass"
+    },
+    {
+        "x": 4,
+        "y": 6,
+        "orientation": "H",
+        "word": "auto"
+    },
+    {
+        "x": 7,
+        "y": 2,
+        "orientation": "H",
+        "word": "a"
+    },
+    {
+        "x": 7,
+        "y": 2,
+        "orientation": "V",
+        "word": "ally"
+    },
+    {
+        "x": 4,
+        "y": 1,
+        "orientation": "H",
+        "word": "ski"
+    },
+    {
+        "x": 4,
+        "y": 3,
+        "orientation": "V",
+        "word": "if"
+    },
+    {
+        "x": 1,
+        "y": 7,
+        "orientation": "H",
+        "word": "skin"
+    },
+    {
+        "x": 1,
+        "y": 9,
+        "orientation": "V",
+        "word": "innovation"
+    },
+    {
+        "x": 1,
+        "y": 2,
+        "orientation": "V",
+        "word": "pork"
+    },
+    {
+        "x": 2,
+        "y": 2,
+        "orientation": "H",
+        "word": "odd"
+    }
+]

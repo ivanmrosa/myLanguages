@@ -1,0 +1,86 @@
+[
+    {
+        "x": 7,
+        "y": 1,
+        "orientation": "H",
+        "word": "excuse"
+    },
+    {
+        "x": 7,
+        "y": 5,
+        "orientation": "V",
+        "word": "shot"
+    },
+    {
+        "x": 1,
+        "y": 4,
+        "orientation": "V",
+        "word": "previous"
+    },
+    {
+        "x": 5,
+        "y": 4,
+        "orientation": "H",
+        "word": "inquiry"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "V",
+        "word": "conceive"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "H",
+        "word": "cage"
+    },
+    {
+        "x": 2,
+        "y": 7,
+        "orientation": "H",
+        "word": "debt"
+    },
+    {
+        "x": 2,
+        "y": 9,
+        "orientation": "V",
+        "word": "beer"
+    },
+    {
+        "x": 7,
+        "y": 3,
+        "orientation": "V",
+        "word": "chew"
+    },
+    {
+        "x": 10,
+        "y": 3,
+        "orientation": "H",
+        "word": "within"
+    },
+    {
+        "x": 1,
+        "y": 3,
+        "orientation": "V",
+        "word": "us"
+    },
+    {
+        "x": 1,
+        "y": 3,
+        "orientation": "H",
+        "word": "upper"
+    },
+    {
+        "x": 8,
+        "y": 9,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 8,
+        "y": 9,
+        "orientation": "H",
+        "word": "at"
+    }
+]

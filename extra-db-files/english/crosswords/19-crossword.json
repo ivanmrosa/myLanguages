@@ -1,0 +1,86 @@
+[
+    {
+        "x": 1,
+        "y": 3,
+        "orientation": "H",
+        "word": "military"
+    },
+    {
+        "x": 1,
+        "y": 7,
+        "orientation": "V",
+        "word": "too"
+    },
+    {
+        "x": 3,
+        "y": 7,
+        "orientation": "H",
+        "word": "our"
+    },
+    {
+        "x": 3,
+        "y": 8,
+        "orientation": "V",
+        "word": "utilize"
+    },
+    {
+        "x": 4,
+        "y": 5,
+        "orientation": "H",
+        "word": "a"
+    },
+    {
+        "x": 4,
+        "y": 5,
+        "orientation": "V",
+        "word": "away"
+    },
+    {
+        "x": 6,
+        "y": 2,
+        "orientation": "V",
+        "word": "trick"
+    },
+    {
+        "x": 10,
+        "y": 2,
+        "orientation": "H",
+        "word": "kind"
+    },
+    {
+        "x": 2,
+        "y": 1,
+        "orientation": "V",
+        "word": "hungry"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "H",
+        "word": "use"
+    },
+    {
+        "x": 6,
+        "y": 4,
+        "orientation": "V",
+        "word": "woman"
+    },
+    {
+        "x": 9,
+        "y": 4,
+        "orientation": "H",
+        "word": "apple"
+    },
+    {
+        "x": 5,
+        "y": 7,
+        "orientation": "V",
+        "word": "spill"
+    },
+    {
+        "x": 5,
+        "y": 7,
+        "orientation": "H",
+        "word": "sing"
+    }
+]

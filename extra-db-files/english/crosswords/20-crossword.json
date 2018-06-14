@@ -1,0 +1,98 @@
+[
+    {
+        "x": 5,
+        "y": 2,
+        "orientation": "H",
+        "word": "frankly"
+    },
+    {
+        "x": 5,
+        "y": 6,
+        "orientation": "V",
+        "word": "key"
+    },
+    {
+        "x": 2,
+        "y": 2,
+        "orientation": "H",
+        "word": "grief"
+    },
+    {
+        "x": 2,
+        "y": 5,
+        "orientation": "V",
+        "word": "earn"
+    },
+    {
+        "x": 7,
+        "y": 4,
+        "orientation": "V",
+        "word": "know"
+    },
+    {
+        "x": 10,
+        "y": 4,
+        "orientation": "H",
+        "word": "week"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "H",
+        "word": "attraction"
+    },
+    {
+        "x": 6,
+        "y": 1,
+        "orientation": "V",
+        "word": "tire"
+    },
+    {
+        "x": 8,
+        "y": 1,
+        "orientation": "H",
+        "word": "rain"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "V",
+        "word": "work"
+    },
+    {
+        "x": 9,
+        "y": 7,
+        "orientation": "H",
+        "word": "rat"
+    },
+    {
+        "x": 6,
+        "y": 9,
+        "orientation": "V",
+        "word": "photo"
+    },
+    {
+        "x": 8,
+        "y": 9,
+        "orientation": "H",
+        "word": "or"
+    },
+    {
+        "x": 1,
+        "y": 8,
+        "orientation": "V",
+        "word": "like"
+    },
+    {
+        "x": 1,
+        "y": 8,
+        "orientation": "H",
+        "word": "leg"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "x": 5,
+        "y": 1,
+        "orientation": "V",
+        "word": "cost"
+    },
+    {
+        "x": 6,
+        "y": 1,
+        "orientation": "H",
+        "word": "oh"
+    },
+    {
+        "x": 3,
+        "y": 6,
+        "orientation": "V",
+        "word": "sell"
+    },
+    {
+        "x": 5,
+        "y": 6,
+        "orientation": "H",
+        "word": "labor"
+    },
+    {
+        "x": 7,
+        "y": 4,
+        "orientation": "V",
+        "word": "yet"
+    },
+    {
+        "x": 9,
+        "y": 4,
+        "orientation": "H",
+        "word": "there"
+    },
+    {
+        "x": 7,
+        "y": 5,
+        "orientation": "V",
+        "word": "echo"
+    },
+    {
+        "x": 10,
+        "y": 5,
+        "orientation": "H",
+        "word": "oil"
+    },
+    {
+        "x": 2,
+        "y": 3,
+        "orientation": "V",
+        "word": "oak"
+    },
+    {
+        "x": 3,
+        "y": 3,
+        "orientation": "H",
+        "word": "abuse"
+    },
+    {
+        "x": 4,
+        "y": 5,
+        "orientation": "H",
+        "word": "deputy"
+    },
+    {
+        "x": 4,
+        "y": 9,
+        "orientation": "V",
+        "word": "tool"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "H",
+        "word": "roll"
+    },
+    {
+        "x": 7,
+        "y": 10,
+        "orientation": "V",
+        "word": "loss"
+    }
+]

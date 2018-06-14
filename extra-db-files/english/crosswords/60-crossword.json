@@ -1,0 +1,86 @@
+[
+    {
+        "x": 3,
+        "y": 2,
+        "orientation": "V",
+        "word": "commit"
+    },
+    {
+        "x": 4,
+        "y": 2,
+        "orientation": "H",
+        "word": "or"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "H",
+        "word": "accounting"
+    },
+    {
+        "x": 3,
+        "y": 10,
+        "orientation": "V",
+        "word": "get"
+    },
+    {
+        "x": 5,
+        "y": 5,
+        "orientation": "V",
+        "word": "boss"
+    },
+    {
+        "x": 5,
+        "y": 5,
+        "orientation": "H",
+        "word": "budget"
+    },
+    {
+        "x": 5,
+        "y": 7,
+        "orientation": "V",
+        "word": "dawn"
+    },
+    {
+        "x": 8,
+        "y": 7,
+        "orientation": "H",
+        "word": "nest"
+    },
+    {
+        "x": 1,
+        "y": 6,
+        "orientation": "V",
+        "word": "tongue"
+    },
+    {
+        "x": 2,
+        "y": 6,
+        "orientation": "H",
+        "word": "oh"
+    },
+    {
+        "x": 6,
+        "y": 4,
+        "orientation": "V",
+        "word": "plant"
+    },
+    {
+        "x": 10,
+        "y": 4,
+        "orientation": "H",
+        "word": "tag"
+    },
+    {
+        "x": 8,
+        "y": 8,
+        "orientation": "V",
+        "word": "eye"
+    },
+    {
+        "x": 10,
+        "y": 8,
+        "orientation": "H",
+        "word": "era"
+    }
+]

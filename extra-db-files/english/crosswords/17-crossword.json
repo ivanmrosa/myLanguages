@@ -1,0 +1,86 @@
+[
+    {
+        "x": 4,
+        "y": 1,
+        "orientation": "H",
+        "word": "dominate"
+    },
+    {
+        "x": 4,
+        "y": 5,
+        "orientation": "V",
+        "word": "normal"
+    },
+    {
+        "x": 2,
+        "y": 5,
+        "orientation": "H",
+        "word": "fear"
+    },
+    {
+        "x": 2,
+        "y": 7,
+        "orientation": "V",
+        "word": "automatic"
+    },
+    {
+        "x": 7,
+        "y": 3,
+        "orientation": "V",
+        "word": "army"
+    },
+    {
+        "x": 8,
+        "y": 3,
+        "orientation": "H",
+        "word": "reaction"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "V",
+        "word": "adoption"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "H",
+        "word": "and"
+    },
+    {
+        "x": 1,
+        "y": 2,
+        "orientation": "V",
+        "word": "honor"
+    },
+    {
+        "x": 1,
+        "y": 2,
+        "orientation": "H",
+        "word": "hey"
+    },
+    {
+        "x": 7,
+        "y": 5,
+        "orientation": "H",
+        "word": "mean"
+    },
+    {
+        "x": 7,
+        "y": 8,
+        "orientation": "V",
+        "word": "nice"
+    },
+    {
+        "x": 2,
+        "y": 10,
+        "orientation": "H",
+        "word": "a"
+    },
+    {
+        "x": 2,
+        "y": 10,
+        "orientation": "V",
+        "word": "ad"
+    }
+]

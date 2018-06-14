@@ -1,0 +1,74 @@
+[
+    {
+        "x": 4,
+        "y": 2,
+        "orientation": "V",
+        "word": "score"
+    },
+    {
+        "x": 8,
+        "y": 2,
+        "orientation": "H",
+        "word": "effort"
+    },
+    {
+        "x": 6,
+        "y": 4,
+        "orientation": "V",
+        "word": "off"
+    },
+    {
+        "x": 7,
+        "y": 4,
+        "orientation": "H",
+        "word": "factory"
+    },
+    {
+        "x": 2,
+        "y": 3,
+        "orientation": "V",
+        "word": "peer"
+    },
+    {
+        "x": 3,
+        "y": 3,
+        "orientation": "H",
+        "word": "essay"
+    },
+    {
+        "x": 1,
+        "y": 1,
+        "orientation": "V",
+        "word": "re"
+    },
+    {
+        "x": 2,
+        "y": 1,
+        "orientation": "H",
+        "word": "expedition"
+    },
+    {
+        "x": 5,
+        "y": 6,
+        "orientation": "V",
+        "word": "secret"
+    },
+    {
+        "x": 9,
+        "y": 6,
+        "orientation": "H",
+        "word": "eye"
+    },
+    {
+        "x": 10,
+        "y": 1,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 10,
+        "y": 1,
+        "orientation": "H",
+        "word": "attention"
+    }
+]

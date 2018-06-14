@@ -1,0 +1,86 @@
+[
+    {
+        "x": 2,
+        "y": 5,
+        "orientation": "V",
+        "word": "creative"
+    },
+    {
+        "x": 4,
+        "y": 5,
+        "orientation": "H",
+        "word": "equip"
+    },
+    {
+        "x": 5,
+        "y": 1,
+        "orientation": "V",
+        "word": "sugar"
+    },
+    {
+        "x": 8,
+        "y": 1,
+        "orientation": "H",
+        "word": "arrive"
+    },
+    {
+        "x": 2,
+        "y": 1,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 2,
+        "y": 1,
+        "orientation": "H",
+        "word": "aspect"
+    },
+    {
+        "x": 7,
+        "y": 4,
+        "orientation": "V",
+        "word": "size"
+    },
+    {
+        "x": 7,
+        "y": 4,
+        "orientation": "H",
+        "word": "simple"
+    },
+    {
+        "x": 4,
+        "y": 3,
+        "orientation": "V",
+        "word": "do"
+    },
+    {
+        "x": 5,
+        "y": 3,
+        "orientation": "H",
+        "word": "orange"
+    },
+    {
+        "x": 7,
+        "y": 6,
+        "orientation": "V",
+        "word": "mere"
+    },
+    {
+        "x": 10,
+        "y": 6,
+        "orientation": "H",
+        "word": "egg"
+    },
+    {
+        "x": 6,
+        "y": 8,
+        "orientation": "V",
+        "word": "all"
+    },
+    {
+        "x": 6,
+        "y": 8,
+        "orientation": "H",
+        "word": "age"
+    }
+]

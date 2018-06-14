@@ -1,0 +1,74 @@
+[
+    {
+        "x": 4,
+        "y": 5,
+        "orientation": "V",
+        "word": "locate"
+    },
+    {
+        "x": 6,
+        "y": 5,
+        "orientation": "H",
+        "word": "center"
+    },
+    {
+        "x": 2,
+        "y": 4,
+        "orientation": "H",
+        "word": "work"
+    },
+    {
+        "x": 2,
+        "y": 4,
+        "orientation": "V",
+        "word": "we"
+    },
+    {
+        "x": 6,
+        "y": 2,
+        "orientation": "V",
+        "word": "unity"
+    },
+    {
+        "x": 7,
+        "y": 2,
+        "orientation": "H",
+        "word": "negative"
+    },
+    {
+        "x": 6,
+        "y": 7,
+        "orientation": "V",
+        "word": "night"
+    },
+    {
+        "x": 10,
+        "y": 7,
+        "orientation": "H",
+        "word": "toll"
+    },
+    {
+        "x": 1,
+        "y": 7,
+        "orientation": "V",
+        "word": "ok"
+    },
+    {
+        "x": 1,
+        "y": 7,
+        "orientation": "H",
+        "word": "of"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "H",
+        "word": "a"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "V",
+        "word": "at"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "x": 3,
+        "y": 4,
+        "orientation": "H",
+        "word": "tribal"
+    },
+    {
+        "x": 3,
+        "y": 9,
+        "orientation": "V",
+        "word": "log"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "V",
+        "word": "low"
+    },
+    {
+        "x": 8,
+        "y": 7,
+        "orientation": "H",
+        "word": "open"
+    },
+    {
+        "x": 3,
+        "y": 4,
+        "orientation": "V",
+        "word": "truth"
+    },
+    {
+        "x": 7,
+        "y": 4,
+        "orientation": "H",
+        "word": "health"
+    },
+    {
+        "x": 6,
+        "y": 1,
+        "orientation": "V",
+        "word": "level"
+    },
+    {
+        "x": 9,
+        "y": 1,
+        "orientation": "H",
+        "word": "eye"
+    },
+    {
+        "x": 4,
+        "y": 2,
+        "orientation": "H",
+        "word": "variation"
+    },
+    {
+        "x": 4,
+        "y": 3,
+        "orientation": "V",
+        "word": "as"
+    },
+    {
+        "x": 10,
+        "y": 4,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 10,
+        "y": 4,
+        "orientation": "H",
+        "word": "ad"
+    }
+]

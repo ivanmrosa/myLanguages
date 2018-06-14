@@ -1,0 +1,74 @@
+[
+    {
+        "x": 7,
+        "y": 4,
+        "orientation": "V",
+        "word": "yeah"
+    },
+    {
+        "x": 7,
+        "y": 4,
+        "orientation": "H",
+        "word": "yellow"
+    },
+    {
+        "x": 3,
+        "y": 5,
+        "orientation": "V",
+        "word": "leave"
+    },
+    {
+        "x": 4,
+        "y": 5,
+        "orientation": "H",
+        "word": "eat"
+    },
+    {
+        "x": 3,
+        "y": 7,
+        "orientation": "V",
+        "word": "itself"
+    },
+    {
+        "x": 5,
+        "y": 7,
+        "orientation": "H",
+        "word": "sky"
+    },
+    {
+        "x": 1,
+        "y": 5,
+        "orientation": "H",
+        "word": "inform"
+    },
+    {
+        "x": 1,
+        "y": 10,
+        "orientation": "V",
+        "word": "mad"
+    },
+    {
+        "x": 7,
+        "y": 1,
+        "orientation": "V",
+        "word": "book"
+    },
+    {
+        "x": 9,
+        "y": 1,
+        "orientation": "H",
+        "word": "ocean"
+    },
+    {
+        "x": 8,
+        "y": 3,
+        "orientation": "V",
+        "word": "bet"
+    },
+    {
+        "x": 10,
+        "y": 3,
+        "orientation": "H",
+        "word": "theology"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "x": 3,
+        "y": 5,
+        "orientation": "V",
+        "word": "male"
+    },
+    {
+        "x": 4,
+        "y": 5,
+        "orientation": "H",
+        "word": "anger"
+    },
+    {
+        "x": 3,
+        "y": 7,
+        "orientation": "V",
+        "word": "agenda"
+    },
+    {
+        "x": 5,
+        "y": 7,
+        "orientation": "H",
+        "word": "earn"
+    },
+    {
+        "x": 5,
+        "y": 4,
+        "orientation": "V",
+        "word": "ethnic"
+    },
+    {
+        "x": 9,
+        "y": 4,
+        "orientation": "H",
+        "word": "in"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "H",
+        "word": "dead"
+    },
+    {
+        "x": 7,
+        "y": 8,
+        "orientation": "V",
+        "word": "eat"
+    },
+    {
+        "x": 9,
+        "y": 9,
+        "orientation": "V",
+        "word": "AM"
+    },
+    {
+        "x": 10,
+        "y": 9,
+        "orientation": "H",
+        "word": "Mr"
+    }
+]

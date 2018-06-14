@@ -1,0 +1,86 @@
+[
+    {
+        "x": 7,
+        "y": 3,
+        "orientation": "H",
+        "word": "stroke"
+    },
+    {
+        "x": 7,
+        "y": 5,
+        "orientation": "V",
+        "word": "ride"
+    },
+    {
+        "x": 4,
+        "y": 5,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 4,
+        "y": 5,
+        "orientation": "H",
+        "word": "ass"
+    },
+    {
+        "x": 6,
+        "y": 7,
+        "orientation": "V",
+        "word": "skull"
+    },
+    {
+        "x": 9,
+        "y": 7,
+        "orientation": "H",
+        "word": "loud"
+    },
+    {
+        "x": 1,
+        "y": 1,
+        "orientation": "H",
+        "word": "threaten"
+    },
+    {
+        "x": 1,
+        "y": 3,
+        "orientation": "V",
+        "word": "road"
+    },
+    {
+        "x": 7,
+        "y": 4,
+        "orientation": "V",
+        "word": "tray"
+    },
+    {
+        "x": 10,
+        "y": 4,
+        "orientation": "H",
+        "word": "yellow"
+    },
+    {
+        "x": 3,
+        "y": 6,
+        "orientation": "H",
+        "word": "thus"
+    },
+    {
+        "x": 3,
+        "y": 9,
+        "orientation": "V",
+        "word": "sir"
+    },
+    {
+        "x": 1,
+        "y": 2,
+        "orientation": "V",
+        "word": "bar"
+    },
+    {
+        "x": 2,
+        "y": 2,
+        "orientation": "H",
+        "word": "ad"
+    }
+]

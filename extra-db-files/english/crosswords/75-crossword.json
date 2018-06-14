@@ -1,0 +1,74 @@
+[
+    {
+        "x": 4,
+        "y": 3,
+        "orientation": "V",
+        "word": "assert"
+    },
+    {
+        "x": 7,
+        "y": 3,
+        "orientation": "H",
+        "word": "ease"
+    },
+    {
+        "x": 2,
+        "y": 4,
+        "orientation": "V",
+        "word": "regulator"
+    },
+    {
+        "x": 3,
+        "y": 4,
+        "orientation": "H",
+        "word": "even"
+    },
+    {
+        "x": 2,
+        "y": 1,
+        "orientation": "V",
+        "word": "bet"
+    },
+    {
+        "x": 4,
+        "y": 1,
+        "orientation": "H",
+        "word": "tragedy"
+    },
+    {
+        "x": 2,
+        "y": 6,
+        "orientation": "H",
+        "word": "diet"
+    },
+    {
+        "x": 2,
+        "y": 9,
+        "orientation": "V",
+        "word": "the"
+    },
+    {
+        "x": 7,
+        "y": 6,
+        "orientation": "V",
+        "word": "earn"
+    },
+    {
+        "x": 10,
+        "y": 6,
+        "orientation": "H",
+        "word": "need"
+    },
+    {
+        "x": 6,
+        "y": 7,
+        "orientation": "H",
+        "word": "rope"
+    },
+    {
+        "x": 6,
+        "y": 10,
+        "orientation": "V",
+        "word": "etc"
+    }
+]

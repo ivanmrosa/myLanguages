@@ -1,0 +1,74 @@
+[
+    {
+        "x": 2,
+        "y": 5,
+        "orientation": "H",
+        "word": "pasta"
+    },
+    {
+        "x": 2,
+        "y": 8,
+        "orientation": "V",
+        "word": "threshold"
+    },
+    {
+        "x": 6,
+        "y": 2,
+        "orientation": "H",
+        "word": "various"
+    },
+    {
+        "x": 6,
+        "y": 2,
+        "orientation": "V",
+        "word": "view"
+    },
+    {
+        "x": 4,
+        "y": 5,
+        "orientation": "V",
+        "word": "fairly"
+    },
+    {
+        "x": 5,
+        "y": 5,
+        "orientation": "H",
+        "word": "appeal"
+    },
+    {
+        "x": 4,
+        "y": 3,
+        "orientation": "H",
+        "word": "differ"
+    },
+    {
+        "x": 4,
+        "y": 3,
+        "orientation": "V",
+        "word": "dealer"
+    },
+    {
+        "x": 1,
+        "y": 2,
+        "orientation": "V",
+        "word": "up"
+    },
+    {
+        "x": 1,
+        "y": 2,
+        "orientation": "H",
+        "word": "us"
+    },
+    {
+        "x": 7,
+        "y": 5,
+        "orientation": "H",
+        "word": "rather"
+    },
+    {
+        "x": 7,
+        "y": 10,
+        "orientation": "V",
+        "word": "row"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "x": 2,
+        "y": 4,
+        "orientation": "H",
+        "word": "helpful"
+    },
+    {
+        "x": 2,
+        "y": 9,
+        "orientation": "V",
+        "word": "use"
+    },
+    {
+        "x": 5,
+        "y": 4,
+        "orientation": "V",
+        "word": "source"
+    },
+    {
+        "x": 9,
+        "y": 4,
+        "orientation": "H",
+        "word": "clay"
+    },
+    {
+        "x": 4,
+        "y": 5,
+        "orientation": "V",
+        "word": "briefly"
+    },
+    {
+        "x": 4,
+        "y": 5,
+        "orientation": "H",
+        "word": "better"
+    },
+    {
+        "x": 4,
+        "y": 7,
+        "orientation": "V",
+        "word": "treaty"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "H",
+        "word": "and"
+    },
+    {
+        "x": 2,
+        "y": 1,
+        "orientation": "V",
+        "word": "frequency"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "H",
+        "word": "rid"
+    },
+    {
+        "x": 6,
+        "y": 7,
+        "orientation": "H",
+        "word": "ago"
+    },
+    {
+        "x": 6,
+        "y": 9,
+        "orientation": "V",
+        "word": "odd"
+    }
+]

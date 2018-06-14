@@ -1,0 +1,74 @@
+[
+    {
+        "x": 4,
+        "y": 7,
+        "orientation": "V",
+        "word": "dump"
+    },
+    {
+        "x": 5,
+        "y": 7,
+        "orientation": "H",
+        "word": "ugly"
+    },
+    {
+        "x": 4,
+        "y": 5,
+        "orientation": "V",
+        "word": "jungle"
+    },
+    {
+        "x": 9,
+        "y": 5,
+        "orientation": "H",
+        "word": "entity"
+    },
+    {
+        "x": 5,
+        "y": 1,
+        "orientation": "V",
+        "word": "sample"
+    },
+    {
+        "x": 10,
+        "y": 1,
+        "orientation": "H",
+        "word": "eye"
+    },
+    {
+        "x": 4,
+        "y": 3,
+        "orientation": "V",
+        "word": "romance"
+    },
+    {
+        "x": 6,
+        "y": 3,
+        "orientation": "H",
+        "word": "minimize"
+    },
+    {
+        "x": 1,
+        "y": 4,
+        "orientation": "H",
+        "word": "a"
+    },
+    {
+        "x": 1,
+        "y": 4,
+        "orientation": "V",
+        "word": "as"
+    },
+    {
+        "x": 2,
+        "y": 6,
+        "orientation": "V",
+        "word": "of"
+    },
+    {
+        "x": 2,
+        "y": 6,
+        "orientation": "H",
+        "word": "ours"
+    }
+]

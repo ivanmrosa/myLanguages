@@ -1,0 +1,74 @@
+[
+    {
+        "x": 1,
+        "y": 6,
+        "orientation": "V",
+        "word": "judge"
+    },
+    {
+        "x": 2,
+        "y": 6,
+        "orientation": "H",
+        "word": "used"
+    },
+    {
+        "x": 4,
+        "y": 1,
+        "orientation": "V",
+        "word": "trail"
+    },
+    {
+        "x": 5,
+        "y": 1,
+        "orientation": "H",
+        "word": "retirement"
+    },
+    {
+        "x": 1,
+        "y": 2,
+        "orientation": "V",
+        "word": "bitter"
+    },
+    {
+        "x": 2,
+        "y": 2,
+        "orientation": "H",
+        "word": "if"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "V",
+        "word": "aim"
+    },
+    {
+        "x": 9,
+        "y": 7,
+        "orientation": "H",
+        "word": "math"
+    },
+    {
+        "x": 5,
+        "y": 4,
+        "orientation": "V",
+        "word": "itself"
+    },
+    {
+        "x": 8,
+        "y": 4,
+        "orientation": "H",
+        "word": "equip"
+    },
+    {
+        "x": 3,
+        "y": 2,
+        "orientation": "H",
+        "word": "third"
+    },
+    {
+        "x": 3,
+        "y": 3,
+        "orientation": "V",
+        "word": "he"
+    }
+]

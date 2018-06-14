@@ -1,0 +1,74 @@
+[
+    {
+        "x": 4,
+        "y": 6,
+        "orientation": "V",
+        "word": "between"
+    },
+    {
+        "x": 9,
+        "y": 6,
+        "orientation": "H",
+        "word": "exist"
+    },
+    {
+        "x": 6,
+        "y": 5,
+        "orientation": "V",
+        "word": "no"
+    },
+    {
+        "x": 7,
+        "y": 5,
+        "orientation": "H",
+        "word": "own"
+    },
+    {
+        "x": 7,
+        "y": 2,
+        "orientation": "V",
+        "word": "load"
+    },
+    {
+        "x": 10,
+        "y": 2,
+        "orientation": "H",
+        "word": "darkness"
+    },
+    {
+        "x": 1,
+        "y": 1,
+        "orientation": "V",
+        "word": "let"
+    },
+    {
+        "x": 1,
+        "y": 1,
+        "orientation": "H",
+        "word": "label"
+    },
+    {
+        "x": 4,
+        "y": 6,
+        "orientation": "H",
+        "word": "brave"
+    },
+    {
+        "x": 4,
+        "y": 8,
+        "orientation": "V",
+        "word": "at"
+    },
+    {
+        "x": 6,
+        "y": 9,
+        "orientation": "V",
+        "word": "cross"
+    },
+    {
+        "x": 8,
+        "y": 9,
+        "orientation": "H",
+        "word": "of"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "x": 1,
+        "y": 4,
+        "orientation": "H",
+        "word": "beam"
+    },
+    {
+        "x": 1,
+        "y": 5,
+        "orientation": "V",
+        "word": "ecosystem"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "H",
+        "word": "cope"
+    },
+    {
+        "x": 7,
+        "y": 9,
+        "orientation": "V",
+        "word": "park"
+    },
+    {
+        "x": 5,
+        "y": 5,
+        "orientation": "H",
+        "word": "yield"
+    },
+    {
+        "x": 5,
+        "y": 7,
+        "orientation": "V",
+        "word": "escape"
+    },
+    {
+        "x": 1,
+        "y": 2,
+        "orientation": "V",
+        "word": "his"
+    },
+    {
+        "x": 3,
+        "y": 2,
+        "orientation": "H",
+        "word": "shoot"
+    },
+    {
+        "x": 4,
+        "y": 8,
+        "orientation": "V",
+        "word": "allow"
+    },
+    {
+        "x": 4,
+        "y": 8,
+        "orientation": "H",
+        "word": "a"
+    }
+]

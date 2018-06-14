@@ -1,0 +1,62 @@
+[
+    {
+        "x": 2,
+        "y": 4,
+        "orientation": "V",
+        "word": "laundry"
+    },
+    {
+        "x": 2,
+        "y": 4,
+        "orientation": "H",
+        "word": "low"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "V",
+        "word": "melt"
+    },
+    {
+        "x": 10,
+        "y": 7,
+        "orientation": "H",
+        "word": "they"
+    },
+    {
+        "x": 3,
+        "y": 2,
+        "orientation": "V",
+        "word": "mother"
+    },
+    {
+        "x": 5,
+        "y": 2,
+        "orientation": "H",
+        "word": "tonight"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "orientation": "H",
+        "word": "impact"
+    },
+    {
+        "x": 3,
+        "y": 3,
+        "orientation": "V",
+        "word": "project"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "H",
+        "word": "much"
+    },
+    {
+        "x": 7,
+        "y": 9,
+        "orientation": "V",
+        "word": "cope"
+    }
+]

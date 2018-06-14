@@ -1,0 +1,86 @@
+[
+    {
+        "x": 3,
+        "y": 4,
+        "orientation": "V",
+        "word": "market"
+    },
+    {
+        "x": 4,
+        "y": 4,
+        "orientation": "H",
+        "word": "assign"
+    },
+    {
+        "x": 1,
+        "y": 3,
+        "orientation": "V",
+        "word": "no"
+    },
+    {
+        "x": 1,
+        "y": 3,
+        "orientation": "H",
+        "word": "nurse"
+    },
+    {
+        "x": 6,
+        "y": 7,
+        "orientation": "V",
+        "word": "meal"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "H",
+        "word": "etc"
+    },
+    {
+        "x": 4,
+        "y": 1,
+        "orientation": "V",
+        "word": "enhance"
+    },
+    {
+        "x": 10,
+        "y": 1,
+        "orientation": "H",
+        "word": "enter"
+    },
+    {
+        "x": 3,
+        "y": 6,
+        "orientation": "V",
+        "word": "ask"
+    },
+    {
+        "x": 3,
+        "y": 6,
+        "orientation": "H",
+        "word": "agree"
+    },
+    {
+        "x": 6,
+        "y": 7,
+        "orientation": "H",
+        "word": "may"
+    },
+    {
+        "x": 6,
+        "y": 8,
+        "orientation": "V",
+        "word": "at"
+    },
+    {
+        "x": 9,
+        "y": 8,
+        "orientation": "V",
+        "word": "to"
+    },
+    {
+        "x": 10,
+        "y": 8,
+        "orientation": "H",
+        "word": "ok"
+    }
+]

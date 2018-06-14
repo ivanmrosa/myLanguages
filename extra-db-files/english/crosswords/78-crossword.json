@@ -1,0 +1,62 @@
+[
+    {
+        "x": 2,
+        "y": 3,
+        "orientation": "V",
+        "word": "full-time"
+    },
+    {
+        "x": 7,
+        "y": 3,
+        "orientation": "H",
+        "word": "tolerate"
+    },
+    {
+        "x": 1,
+        "y": 5,
+        "orientation": "V",
+        "word": "painful"
+    },
+    {
+        "x": 2,
+        "y": 5,
+        "orientation": "H",
+        "word": "aim"
+    },
+    {
+        "x": 5,
+        "y": 6,
+        "orientation": "V",
+        "word": "theme"
+    },
+    {
+        "x": 8,
+        "y": 6,
+        "orientation": "H",
+        "word": "money"
+    },
+    {
+        "x": 6,
+        "y": 1,
+        "orientation": "V",
+        "word": "sales"
+    },
+    {
+        "x": 10,
+        "y": 1,
+        "orientation": "H",
+        "word": "seek"
+    },
+    {
+        "x": 10,
+        "y": 9,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 10,
+        "y": 9,
+        "orientation": "H",
+        "word": "ad"
+    }
+]

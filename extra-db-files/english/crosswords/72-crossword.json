@@ -1,0 +1,62 @@
+[
+    {
+        "x": 1,
+        "y": 1,
+        "orientation": "V",
+        "word": "existing"
+    },
+    {
+        "x": 7,
+        "y": 1,
+        "orientation": "H",
+        "word": "national"
+    },
+    {
+        "x": 4,
+        "y": 5,
+        "orientation": "V",
+        "word": "auto"
+    },
+    {
+        "x": 5,
+        "y": 5,
+        "orientation": "H",
+        "word": "upper"
+    },
+    {
+        "x": 2,
+        "y": 5,
+        "orientation": "H",
+        "word": "asleep"
+    },
+    {
+        "x": 2,
+        "y": 8,
+        "orientation": "V",
+        "word": "excellent"
+    },
+    {
+        "x": 3,
+        "y": 3,
+        "orientation": "H",
+        "word": "a"
+    },
+    {
+        "x": 3,
+        "y": 3,
+        "orientation": "V",
+        "word": "addition"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "V",
+        "word": "army"
+    },
+    {
+        "x": 8,
+        "y": 7,
+        "orientation": "H",
+        "word": "rest"
+    }
+]

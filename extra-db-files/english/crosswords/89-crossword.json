@@ -1,0 +1,86 @@
+[
+    {
+        "x": 1,
+        "y": 2,
+        "orientation": "V",
+        "word": "jet"
+    },
+    {
+        "x": 2,
+        "y": 2,
+        "orientation": "H",
+        "word": "end"
+    },
+    {
+        "x": 5,
+        "y": 3,
+        "orientation": "V",
+        "word": "mean"
+    },
+    {
+        "x": 5,
+        "y": 3,
+        "orientation": "H",
+        "word": "million"
+    },
+    {
+        "x": 5,
+        "y": 6,
+        "orientation": "V",
+        "word": "land"
+    },
+    {
+        "x": 7,
+        "y": 6,
+        "orientation": "H",
+        "word": "near"
+    },
+    {
+        "x": 2,
+        "y": 6,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 2,
+        "y": 6,
+        "orientation": "H",
+        "word": "ago"
+    },
+    {
+        "x": 6,
+        "y": 2,
+        "orientation": "V",
+        "word": "unite"
+    },
+    {
+        "x": 10,
+        "y": 2,
+        "orientation": "H",
+        "word": "exploit"
+    },
+    {
+        "x": 9,
+        "y": 8,
+        "orientation": "V",
+        "word": "it"
+    },
+    {
+        "x": 9,
+        "y": 8,
+        "orientation": "H",
+        "word": "its"
+    },
+    {
+        "x": 4,
+        "y": 7,
+        "orientation": "V",
+        "word": "tide"
+    },
+    {
+        "x": 4,
+        "y": 7,
+        "orientation": "H",
+        "word": "ten"
+    }
+]

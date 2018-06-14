@@ -1,0 +1,74 @@
+[
+    {
+        "x": 6,
+        "y": 3,
+        "orientation": "V",
+        "word": "vast"
+    },
+    {
+        "x": 6,
+        "y": 3,
+        "orientation": "H",
+        "word": "vanish"
+    },
+    {
+        "x": 1,
+        "y": 5,
+        "orientation": "V",
+        "word": "Korean"
+    },
+    {
+        "x": 3,
+        "y": 5,
+        "orientation": "H",
+        "word": "rest"
+    },
+    {
+        "x": 6,
+        "y": 7,
+        "orientation": "V",
+        "word": "sit"
+    },
+    {
+        "x": 8,
+        "y": 7,
+        "orientation": "H",
+        "word": "tip"
+    },
+    {
+        "x": 3,
+        "y": 2,
+        "orientation": "V",
+        "word": "ah"
+    },
+    {
+        "x": 4,
+        "y": 2,
+        "orientation": "H",
+        "word": "hopefully"
+    },
+    {
+        "x": 5,
+        "y": 1,
+        "orientation": "V",
+        "word": "voice"
+    },
+    {
+        "x": 9,
+        "y": 1,
+        "orientation": "H",
+        "word": "extra"
+    },
+    {
+        "x": 8,
+        "y": 9,
+        "orientation": "V",
+        "word": "pro"
+    },
+    {
+        "x": 10,
+        "y": 9,
+        "orientation": "H",
+        "word": "on"
+    }
+]

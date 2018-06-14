@@ -1,0 +1,86 @@
+[
+    {
+        "x": 5,
+        "y": 4,
+        "orientation": "H",
+        "word": "net"
+    },
+    {
+        "x": 5,
+        "y": 6,
+        "orientation": "V",
+        "word": "target"
+    },
+    {
+        "x": 1,
+        "y": 4,
+        "orientation": "H",
+        "word": "chill"
+    },
+    {
+        "x": 1,
+        "y": 6,
+        "orientation": "V",
+        "word": "if"
+    },
+    {
+        "x": 2,
+        "y": 1,
+        "orientation": "H",
+        "word": "behalf"
+    },
+    {
+        "x": 2,
+        "y": 2,
+        "orientation": "V",
+        "word": "efficient"
+    },
+    {
+        "x": 1,
+        "y": 1,
+        "orientation": "V",
+        "word": "obligation"
+    },
+    {
+        "x": 6,
+        "y": 1,
+        "orientation": "H",
+        "word": "accurate"
+    },
+    {
+        "x": 4,
+        "y": 5,
+        "orientation": "V",
+        "word": "herself"
+    },
+    {
+        "x": 9,
+        "y": 5,
+        "orientation": "H",
+        "word": "lemon"
+    },
+    {
+        "x": 4,
+        "y": 7,
+        "orientation": "H",
+        "word": "half"
+    },
+    {
+        "x": 4,
+        "y": 10,
+        "orientation": "V",
+        "word": "face"
+    },
+    {
+        "x": 7,
+        "y": 8,
+        "orientation": "H",
+        "word": "age"
+    },
+    {
+        "x": 7,
+        "y": 9,
+        "orientation": "V",
+        "word": "gun"
+    }
+]

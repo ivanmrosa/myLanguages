@@ -1,0 +1,86 @@
+[
+    {
+        "x": 1,
+        "y": 3,
+        "orientation": "H",
+        "word": "popular"
+    },
+    {
+        "x": 1,
+        "y": 5,
+        "orientation": "V",
+        "word": "pair"
+    },
+    {
+        "x": 7,
+        "y": 1,
+        "orientation": "V",
+        "word": "item"
+    },
+    {
+        "x": 9,
+        "y": 1,
+        "orientation": "H",
+        "word": "except"
+    },
+    {
+        "x": 4,
+        "y": 6,
+        "orientation": "V",
+        "word": "rabbit"
+    },
+    {
+        "x": 7,
+        "y": 6,
+        "orientation": "H",
+        "word": "blink"
+    },
+    {
+        "x": 1,
+        "y": 1,
+        "orientation": "V",
+        "word": "lab"
+    },
+    {
+        "x": 2,
+        "y": 1,
+        "orientation": "H",
+        "word": "attraction"
+    },
+    {
+        "x": 5,
+        "y": 3,
+        "orientation": "V",
+        "word": "select"
+    },
+    {
+        "x": 6,
+        "y": 3,
+        "orientation": "H",
+        "word": "enable"
+    },
+    {
+        "x": 4,
+        "y": 9,
+        "orientation": "V",
+        "word": "a"
+    },
+    {
+        "x": 4,
+        "y": 9,
+        "orientation": "H",
+        "word": "ad"
+    },
+    {
+        "x": 9,
+        "y": 8,
+        "orientation": "V",
+        "word": "do"
+    },
+    {
+        "x": 10,
+        "y": 8,
+        "orientation": "H",
+        "word": "or"
+    }
+]

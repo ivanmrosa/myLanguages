@@ -1,0 +1,62 @@
+[
+    {
+        "x": 6,
+        "y": 7,
+        "orientation": "V",
+        "word": "punch"
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "H",
+        "word": "us"
+    },
+    {
+        "x": 1,
+        "y": 1,
+        "orientation": "V",
+        "word": "reporting"
+    },
+    {
+        "x": 4,
+        "y": 1,
+        "orientation": "H",
+        "word": "option"
+    },
+    {
+        "x": 6,
+        "y": 5,
+        "orientation": "V",
+        "word": "earth"
+    },
+    {
+        "x": 9,
+        "y": 5,
+        "orientation": "H",
+        "word": "tactic"
+    },
+    {
+        "x": 2,
+        "y": 3,
+        "orientation": "V",
+        "word": "let"
+    },
+    {
+        "x": 3,
+        "y": 3,
+        "orientation": "H",
+        "word": "exposure"
+    },
+    {
+        "x": 2,
+        "y": 6,
+        "orientation": "V",
+        "word": "song"
+    },
+    {
+        "x": 2,
+        "y": 6,
+        "orientation": "H",
+        "word": "slot"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "x": 7,
+        "y": 7,
+        "orientation": "H",
+        "word": "jury"
+    },
+    {
+        "x": 7,
+        "y": 8,
+        "orientation": "V",
+        "word": "user"
+    },
+    {
+        "x": 4,
+        "y": 3,
+        "orientation": "H",
+        "word": "super"
+    },
+    {
+        "x": 4,
+        "y": 5,
+        "orientation": "V",
+        "word": "past"
+    },
+    {
+        "x": 1,
+        "y": 2,
+        "orientation": "H",
+        "word": "drown"
+    },
+    {
+        "x": 1,
+        "y": 6,
+        "orientation": "V",
+        "word": "nice"
+    },
+    {
+        "x": 2,
+        "y": 6,
+        "orientation": "H",
+        "word": "input"
+    },
+    {
+        "x": 2,
+        "y": 10,
+        "orientation": "V",
+        "word": "theory"
+    },
+    {
+        "x": 7,
+        "y": 2,
+        "orientation": "V",
+        "word": "unit"
+    },
+    {
+        "x": 10,
+        "y": 2,
+        "orientation": "H",
+        "word": "treasure"
+    },
+    {
+        "x": 7,
+        "y": 4,
+        "orientation": "V",
+        "word": "home"
+    },
+    {
+        "x": 9,
+        "y": 4,
+        "orientation": "H",
+        "word": "monkey"
+    }
+]
