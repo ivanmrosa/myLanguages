@@ -14,7 +14,7 @@ class Language(models.Model):
         db_table = 'Language'    
 
 class Word(models.Model):
-    text = models.CharField(max_length=100)
+    text = models.CharField(max_length=100, db_index=True)
     language = models.ForeignKey(Language, on_delete=models.CASCADE)
 
     def __str__(self):
@@ -26,14 +26,14 @@ class Word(models.Model):
 
 class WordRank(models.Model):
     word = models.OneToOneField(Word)
-    position = models.IntegerField()
+    position = models.IntegerField(db_index=True)
 
     def __str__(self):
         return str(self.position) + ' - ' + self.word.text
     
     class Meta:
        ordering = ['position']
-       db_table = 'WordRank' 
+       db_table = 'WordRank'        
 
 class Lesson(models.Model):
     language = models.ForeignKey(Language)
@@ -48,7 +48,7 @@ class Lesson(models.Model):
         ordering = ['sequence']        
 
 class LessonWord(models.Model):
-    lesson = models.ForeignKey(Lesson)
+    lesson = models.ForeignKey(Lesson, db_index=True)
     word = models.OneToOneField(Word)
 
 
@@ -60,7 +60,7 @@ class LessonWord(models.Model):
 
 
 class LessonMedia(models.Model):
-    lesson = models.ForeignKey(Lesson)
+    lesson = models.ForeignKey(Lesson, db_index=True)
     subject = models.CharField(max_length=100)
     media_type = models.CharField(max_length=1, choices=MEDIA_TYPE)
     link = models.URLField()
@@ -85,6 +85,8 @@ class UserLearningLanguage(models.Model):
     language = models.ForeignKey(Language)
     actual_lesson = models.ForeignKey(Lesson)
     score = models.IntegerField()
+    last_access = models.DateField(blank=True, null=True)
+    classification = models.IntegerField(blank=True, null=True)
 
     class Meta:
         db_table = 'UserLearningLanguage'

@@ -56,7 +56,7 @@ class UserLearningLanguageSerializer(serializers.HyperlinkedModelSerializer):
     lesson_sequence = serializers.ReadOnlyField(source="actual_lesson.sequence")
     class Meta:        
         model = UserLearningLanguage
-        fields = ('id', 'user_id', 'language_id', 'actual_lesson_id', 'score', 'language_name', 'lesson_sequence', 'actual_lesson')
+        fields = ('id', 'user_id', 'language_id', 'actual_lesson_id', 'score', 'language_name', 'lesson_sequence', 'actual_lesson', 'last_access', 'classification')
             
 
 class UserSerializer(serializers.HyperlinkedModelSerializer):     
