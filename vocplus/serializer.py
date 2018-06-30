@@ -1,4 +1,6 @@
 from rest_framework import serializers, viewsets
+from rest_framework.fields import empty
+from django.utils.timezone import localdate
 from vocplus.models import Language, Word, WordRank, Lesson, LessonWord, \
     LessonMedia, UserComplement, UserLearningLanguage
 from django.db.models import F
@@ -54,10 +56,21 @@ class UserComplementSerializer(serializers.HyperlinkedModelSerializer):
 class UserLearningLanguageSerializer(serializers.HyperlinkedModelSerializer):    
     language_name = serializers.ReadOnlyField(source="language.name")
     lesson_sequence = serializers.ReadOnlyField(source="actual_lesson.sequence")
+    
     class Meta:        
         model = UserLearningLanguage
         fields = ('id', 'user_id', 'language_id', 'actual_lesson_id', 'score', 'language_name', 'lesson_sequence', 'actual_lesson', 'last_access', 'classification')
-            
+    
+    def run_validation(self, data=empty):
+        mutable_data = data.copy()
+        
+        if not mutable_data["last_access"] or mutable_data["last_access"] == 'null':
+            mutable_data["last_access"] = localdate()
+
+        if not mutable_data["classification"] or mutable_data["classification"] == 'null':
+            mutable_data["classification"] = -1
+
+        return super(UserLearningLanguageSerializer, self).run_validation(data = mutable_data)
 
 class UserSerializer(serializers.HyperlinkedModelSerializer):     
     password = serializers.CharField(write_only=True)
